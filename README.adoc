@@ -25,101 +25,30 @@
 :lang: pt-BR
 //3+| mesclar linha tabela
 
-= Programação para Dispositivos Móveis I
-Fagno Alves Fonseca <fagno.fonseca@ifto.edu.br>
-Mestre em Modelagem Computacional de Sistemas – UFT.
+= Tutorial Moodle IFTO
 
-== Ação evento OnClick Botão - Exemplo 1
+== Primeiro Acesso
 
-.Exemplo 1
-[source, java]
-----
-    Button btn1 = findViewById(R.id.button1);
-    btn1.setOnClickListener(new View.OnClickListener() {
-        @Override
-        public void onClick(View v) {
+Para ter acesso a plataforma Moodle é necessário que tanto o professor quanto o aluno esteja cadastrado na plataforma. Este cadastro é efetuado pela equipe de suporte da mesma, em caso de problemas com acesso, entrar em contato através do e-mail: https://moodle.palmas@ifto.edu.br.
 
-            Toast.makeText(getActivity(),"Olá Turma!",Toast.LENGTH_LONG).show();
+Professores e Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA.
 
-        }
-    });
-----
+Professores devem utilizar a matrícula como login,  já alunos o CPF (somente números).
 
-== Ação evento OnClick Botão - Exemplo 2
+Existem dois ambientes Moodle principais no IFTO:
+- Moodle Reitoria: apenas cursos do ensino à distância, endereço: https://moodlepalmas.ifto.edu.br
+- Moodle Palmas: cursos presenciais do campus Palmas, endereço: http://moodlepalmas.ifto.edu.br
 
-.Exemplo 2
-[source, java]
-----
-    Button btn1 = findViewById(R.id.button1);
-    btn1.setOnClickListener(acaobotao());
+NOTA: Estudantes tentam equivocadamente acessar o Moodle da Reitoria.
 
-    private View.OnClickListener acaobotao() {
-        return new Button.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-                Toast.makeText(getActivity(),"Olá Turma, exemplo 2!",Toast.LENGTH_LONG).show();
-            }
-        };
-    }
+== Vídeo de apresentação para primeiro acesso
 
-----
+video::sBTjg_I-nTQ[youtube,width=640,height=480]
 
-== Ação evento OnClick Botão - Exemplo 3
+== RECURSOS DO MOODLE
 
-Você deve definir o layout a propriedade onClick
-[source, xml]
-----
-<Button
-        android:id="@+id/button1"
-        android:onClick="acaobotao"/>
-----
+=== Inserir um recurso URL em um curso no Moodle
 
-.Exemplo 2
-[source, java]
-----
-    public void acaobotao(View view) {
-            Toast.makeText(getActivity(),"Olá Turma, exemplo 3!",Toast.LENGTH_LONG).show();
-    }
-    
-----
+Para inserir uma URL em um curso no Moodle, em modo de edição, adicione um novo recurso URL. Mais informações no vídeo a seguir.
 
-
-
-
-// [source, java]
-// ----
-// public class Pessoa{
-
-//     private String nome;
-//     private int idade;
-
-//     public String getNome(){
-//         return nome;
-//     }
-
-//     public int getIdade(){
-//         return idade;
-//     }
-
-// }
-// ----
-
-// == Código fonte (incluir código fonte)
-// .Título Código
-// [source, java]
-// ----
-// include::Quadrado.java[]
-// ----
-
-
-// == Código fonte (Trecho do código fonte)
-// .Título Código
-// [source, java]
-// ----
-// //add a tag dentro do código ( tag::main[] e finalizar ( end::main[] ) )
-// include::Teclado.java[tag=main]
-// ----
-
-// == Link para outro README 
-// link:comandos/[Lista de Comandos]
-
+video::JRpzsJvlOj0[youtube,width=640,height=480]
