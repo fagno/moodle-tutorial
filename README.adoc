@@ -46,11 +46,21 @@ NOTA: Estudantes tentam equivocadamente acessar o Moodle da Reitoria.
 
 video::sBTjg_I-nTQ[youtube,width=640,height=480]
 
-== RECURSOS DO MOODLE
+== RECURSOS E ATIVIDADES DO MOODLE
+
+Existem diversos recursos e atividades na plataforma Moodle. Este tutorial apresenta alguns dos mais utilizados por professores em suas aulas. O Vídeo a seguir apresenta como adicionar um atividade ou recurso dentro do Moodle.
+
+video::o42C_rjNPv8[youtube,width=640,height=480]
+
+== RECURSOS
 
 === Inserir um recurso URL em um curso no Moodle
 
-O recurso de URL poderá ser utilizado quando o professor desejar disponibilizar um link da internet como um recurso do próprio curso.  
+O módulo de URL permite que um professor para fornecer um link de web como um recurso do curso. Qualquer coisa que esteja livremente disponível on-line, como documentos ou imagens, pode ser vinculada.
+
+Há uma série de opções de exibição para URL, como incorporado ou aberto em uma nova janela.
+
+Observe que URLs também podem ser adicionados a qualquer outro tipo de recurso ou atividade através do editor de texto.
 
 Para inserir uma URL em um curso no Moodle, ative o modo de edição e adicione um novo recurso URL. Mais informações no vídeo a seguir.
 
@@ -58,7 +68,13 @@ video::JRpzsJvlOj0[youtube,width=640,height=480]
 
 === Criando um recurso Rótulo em um curso Moodle
 
-O recurso Rótulo tem como objetivo organizar a página principal do curso, permitindo a criação de títulos, inserção de textos informativos sobre qualquer conteúdo dentro do curso. É possivel adicionar imagens e vídeos que podem ser visualizados dentro da própria plataforma.
+Um rótulo permite que texto e imagens possam ser inserido na página do curso. Rótulos são muito versáteis e podem ajudar a melhorar a aparência de um curso caso utilizado sabiamente.
+
+Rótulos podem ser utilizados:
+
+- Para separar uma lista de atividades com uma cabeçalho ou uma imagem;
+- Para exibir vídeo diretamente na página do curso;
+- Para adicionar uma descrição breve a uma seção de um curso.
 
 Para inserir um rótulo em um curso no Moodle, ative o modo de edição e adicione um novo recurso Rótulo. Mais informações no vídeo a seguir.
 
@@ -66,7 +82,9 @@ video::wvMaj_K-Zm4[youtube,width=640,height=480]
 
 === Inserindo um recurso arquivo em um curso no Moodle
 
-O recurso Arquivo permite ao professor disponibilizar qualquer tipo de arquivo dentro do curso. 
+O módulo de arquivo permite que um professor forneça um arquivo de qualquer tipo como um recurso do curso. Sempre que possível, o arquivo será exibido na interface do curso, caso contrário, os estudantes serão levados a fazer o download. 
+
+Note-se que os estudantes precisam ter o software adequado em seus computadores para abrir o arquivo.
 
 Para inserir um arquivo em um curso no Moodle, ative o modo de edição e adicione um novo arquivo. Mais informações no vídeo a seguir.
 
@@ -80,5 +98,5 @@ Para inserir um arquivo em um curso no Moodle, ative o modo de edição e adicio
 
 video::xzvSUXKKNGw[youtube,width=640,height=480]
 
-== ATIVIDADES DO MOODLE
+== ATIVIDADES
 
