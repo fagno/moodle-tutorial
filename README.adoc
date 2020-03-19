@@ -36,6 +36,7 @@ Professores e Alunos devem utilizar os mesmos dados de acesso ao sistema acadêm
 Professores devem utilizar a matrícula como login,  já alunos o CPF (somente números).
 
 Existem dois ambientes Moodle principais no IFTO:
+
 - Moodle Reitoria: apenas cursos do ensino à distância, endereço: https://moodlepalmas.ifto.edu.br
 - Moodle Palmas: cursos presenciais do campus Palmas, endereço: http://moodlepalmas.ifto.edu.br
 
@@ -49,6 +50,35 @@ video::sBTjg_I-nTQ[youtube,width=640,height=480]
 
 === Inserir um recurso URL em um curso no Moodle
 
-Para inserir uma URL em um curso no Moodle, em modo de edição, adicione um novo recurso URL. Mais informações no vídeo a seguir.
+O recurso de URL poderá ser utilizado quando o professor desejar disponibilizar um link da internet como um recurso do próprio curso.  
+
+Para inserir uma URL em um curso no Moodle, ative o modo de edição e adicione um novo recurso URL. Mais informações no vídeo a seguir.
 
 video::JRpzsJvlOj0[youtube,width=640,height=480]
+
+=== Criando um recurso Rótulo em um curso Moodle
+
+O recurso Rótulo tem como objetivo organizar a página principal do curso, permitindo a criação de títulos, inserção de textos informativos sobre qualquer conteúdo dentro do curso. É possivel adicionar imagens e vídeos que podem ser visualizados dentro da própria plataforma.
+
+Para inserir um rótulo em um curso no Moodle, ative o modo de edição e adicione um novo recurso Rótulo. Mais informações no vídeo a seguir.
+
+video::wvMaj_K-Zm4[youtube,width=640,height=480]
+
+=== Inserindo um recurso arquivo em um curso no Moodle
+
+O recurso Arquivo permite ao professor disponibilizar qualquer tipo de arquivo dentro do curso. 
+
+Para inserir um arquivo em um curso no Moodle, ative o modo de edição e adicione um novo arquivo. Mais informações no vídeo a seguir.
+
+video::dTW25ZjapmY[youtube,width=640,height=480]
+
+=== Enviando e recebendo mensagens através do Moodle
+
+O recurso Arquivo permite ao professor disponibilizar qualquer tipo de arquivo dentro do curso. 
+
+Para inserir um arquivo em um curso no Moodle, ative o modo de edição e adicione um novo arquivo. Mais informações no vídeo a seguir.
+
+video::xzvSUXKKNGw[youtube,width=640,height=480]
+
+== ATIVIDADES DO MOODLE
+
