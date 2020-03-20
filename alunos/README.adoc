@@ -42,7 +42,7 @@ WARNING: Estudantes tentam equivocadamente acessar o Moodle da Reitoria.
 
 == Vídeo de apresentação para primeiro acesso
 
-video::sBTjg_I-nTQ[youtube,width=640,height=480]
+video::v_vQvUifMm0[youtube,width=640,height=480]
 
 == RECURSOS E ATIVIDADES DO MOODLE
 

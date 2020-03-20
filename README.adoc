@@ -26,7 +26,9 @@
 //3+| mesclar linha tabela
 
 
-= Tutorial Moodle IFTO
+= Tutorial de Suporte ao Ensino a Distância
+
+== Plataforma Moodle
 
 A plataforma MOODLE (Modular Object-Oriented Dynamic Learning Environment) é um software livre, de apoio à aprendizagem. Um Sistema de gestão da aprendizagem em trabalho colaborativo acessível através da Internet ou de rede local. Atualmente é a plataforma utilizada pelo Instituto Federal do Tocantins - IFTO nos cursos de modalidade a distância e também como instrumento de apoio ao ensino presencial.
 
@@ -39,3 +41,11 @@ A seguir apresentamos tópicos com conteúdo para professores e alunos:
 2. link:alunos/[Tutorial para Alunos]
 
 IMPORTANT: Em caso de dúvidas entre em contato com o suporte moodle através do endereço de e-mail: moodle.palmas@ifto.edu.br
+
+== Google Classroom
+
+Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.
+
+1. link:classroom_doc/[Tutorial para Professores]
+
+2. link:classroom_dis/[Tutorial para Alunos]
