@@ -42,6 +42,21 @@ Existem dois ambientes Moodle principais no IFTO:
 
 WARNING: Estudantes tentam equivocadamente acessar o Moodle da Reitoria.
 
+Para os professores dos Campus listado abaixo, o acesso é através do Moodle Reitoria no endereço: https://moodle.ifto.edu.br.
+
+Assim que forem cadastrados na plataforma, o acesso na mesma é com os dados do SIGA.
+
+- CAMPUS PORTO NACIONAL
+- CAMPUS GURUPI
+- CAMPUS COLINAS DO TOCANTINS
+- CAMPUS ARAGUATINS
+- CAMPUS DIANÓPOLIS
+- CAMPUS AVANÇADO PEDRO AFONSO
+- CAMPUS AVANÇADO FORMOSO DO ARAGUAIA 
+
+WARNING: Quando os estudantes e professores dos Campus citado acima forem cadastrados na plataforma, os responsáveis serão comunicados.
+
+
 == Vídeo de apresentação para primeiro acesso
 
 video::v_vQvUifMm0[youtube,width=640,height=480]
