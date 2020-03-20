@@ -25,17 +25,179 @@
 :lang: pt-BR
 //3+| mesclar linha tabela
 
-
 = Tutorial Moodle IFTO
 
-A plataforma MOODLE (Modular Object-Oriented Dynamic Learning Environment) é um software livre, de apoio à aprendizagem. Um Sistema de gestão da aprendizagem em trabalho colaborativo acessível através da Internet ou de rede local. Atualmente é a plataforma utilizada pelo Instituto Federal do Tocantins - IFTO nos cursos de modalidade a distância e também como instrumento de apoio ao ensino presencial.
+== Primeiro Acesso
 
-Este tutorial foi construído a fim de apresentar as principais funcionalidades da plataforma aos professores e alunos do IFTO.
+Para ter acesso a plataforma Moodle é necessário que tanto o professor quanto o aluno esteja cadastrado na plataforma. Este cadastro é efetuado pela equipe de suporte da mesma, em caso de problemas com acesso, entrar em contato através do e-mail: https://moodle.palmas@ifto.edu.br.
 
-A seguir apresentamos tópicos com conteúdo para professores e alunos:
+IMPORTANT: Professores e Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA.
 
-1. link:topics/professor.adoc[Tutorial para Professores]
+IMPORTANT: Professores devem utilizar a matrícula como login,  já alunos o CPF (somente números).
 
-2. link:topics/aluno.adoc[Tutorial para Alunos]
+Existem dois ambientes Moodle principais no IFTO:
 
-IMPORTANT: Em caso de dúvidas entre em contato com o suporte moodle através do endereço de e-mail: moodle.palmas@ifto.edu.br
+- Moodle Reitoria: apenas cursos do ensino à distância, endereço: https://moodle.ifto.edu.br
+- Moodle Palmas: cursos presenciais do campus Palmas, endereço: http://moodlepalmas.ifto.edu.br
+
+WARNING: Estudantes tentam equivocadamente acessar o Moodle da Reitoria.
+
+== Vídeo de apresentação para primeiro acesso
+
+video::sBTjg_I-nTQ[youtube,width=640,height=480]
+
+== RECURSOS E ATIVIDADES DO MOODLE
+
+Existem diversos recursos e atividades na plataforma Moodle. Este tutorial apresenta alguns dos mais utilizados por professores em suas aulas. O Vídeo a seguir apresenta como adicionar um atividade ou recurso dentro do Moodle.
+
+video::o42C_rjNPv8[youtube,width=640,height=480]
+
+== RECURSOS
+
+=== Inserir um recurso URL em um curso no Moodle
+
+O módulo de URL permite que um professor para fornecer um link de web como um recurso do curso. Qualquer coisa que esteja livremente disponível on-line, como documentos ou imagens, pode ser vinculada.
+
+Há uma série de opções de exibição para URL, como incorporado ou aberto em uma nova janela.
+
+Observe que URLs também podem ser adicionados a qualquer outro tipo de recurso ou atividade através do editor de texto.
+
+Para inserir uma URL em um curso no Moodle, ative o modo de edição e adicione um novo recurso URL. Mais informações no vídeo a seguir.
+
+video::JRpzsJvlOj0[youtube,width=640,height=480]
+
+=== Criando um recurso Rótulo em um curso Moodle
+
+Um rótulo permite que texto e imagens possam ser inserido na página do curso. Rótulos são muito versáteis e podem ajudar a melhorar a aparência de um curso caso utilizado sabiamente.
+
+Rótulos podem ser utilizados:
+
+- Para separar uma lista de atividades com uma cabeçalho ou uma imagem;
+- Para exibir vídeo diretamente na página do curso;
+- Para adicionar uma descrição breve a uma seção de um curso.
+
+Para inserir um rótulo em um curso no Moodle, ative o modo de edição e adicione um novo recurso Rótulo. Mais informações no vídeo a seguir.
+
+video::wvMaj_K-Zm4[youtube,width=640,height=480]
+
+=== Inserindo um recurso arquivo em um curso no Moodle
+
+O módulo de arquivo permite que um professor forneça um arquivo de qualquer tipo como um recurso do curso. Sempre que possível, o arquivo será exibido na interface do curso, caso contrário, os estudantes serão levados a fazer o download. 
+
+Note-se que os estudantes precisam ter o software adequado em seus computadores para abrir o arquivo.
+
+Para inserir um arquivo em um curso no Moodle, ative o modo de edição e adicione um novo arquivo. Mais informações no vídeo a seguir.
+
+video::dTW25ZjapmY[youtube,width=640,height=480]
+
+=== Enviando e recebendo mensagens através do Moodle
+
+No vídeo a seguir é apresentado como enviar mensagens através do Moodle.
+
+video::xzvSUXKKNGw[youtube,width=640,height=480]
+
+== ATIVIDADES
+
+=== Criando uma atividade Lição em um curso no Moodle
+
+Uma lição publica o conteúdo em um modo interessante e flexível. Ela consiste em um certo número de páginas. Cada página, normalmente, termina com uma questão e uma série de possíveis respostas. Dependendo da resposta escolhida pelo estudante, ou ele passa para a próxima página ou é levado de volta para uma página anterior. A navegação através da lição pode ser direta ou complexa, dependendo em grande parte da estrutura do material que está sendo apresentado.
+
+video::Xcilgy3PHSA[youtube,width=640,height=480]
+
+=== Programar eventos no calendário de um curso no Moodle
+
+No vídeo a seguir é apresentado como o professor pode criar eventos no calendário para um curso do Moodle.
+
+video::fTnrQGWxTpk[youtube,width=640,height=480]
+
+=== Criando uma atividade Tarefa em um curso no Moodle
+
+O módulo de atividade tarefa permite ao professor comunicar tarefas, recolher o trabalho e fornecer notas e comentários.
+
+Os estudantes podem apresentar qualquer conteúdo digital (arquivos), como documentos de texto, planilhas, imagens ou áudio e videoclipes. Alternativamente, ou adicionalmente, a atribuição pode exigir dos estudantes a digitação do conteúdo diretamente no editor de texto. Uma tarefa também pode ser usada para lembrar aos estudantes das atribuições 'mundo real' que eles precisam para completar off-line, tais como obras de arte e, portanto, não necessita de qualquer conteúdo digital. Os estudantes podem submeter trabalhos, individualmente ou como membro de um grupo.
+
+Ao analisar os trabalhos, os professores podem deixar comentários de feedback e fazer upload de arquivos, como marcar apresentações dos estudantes, documentos com comentários. Notas finais são registradas no livro de notas.
+
+video::-dXCrY-diFg[youtube,width=640,height=480]
+
+=== Enviando uma mensagem ao fórum de um curso no Moodle 
+
+O módulo de atividade fórum permite que participantes tenham discussões assíncronas, ou seja, discussões que acontecem durante um longo período de tempo.
+
+Existem vários tipos de fóruns que você pode escolher, como o fórum padrão onde qualquer um pode iniciar uma discussão a qualquer momento; um fórum onde cada estudante pode postar apenas uma discussão; ou um fórum de perguntas e respostas onde os estudantes devem primeiro fazer um post para então serem autorizados a ver os outros posts de outros estudantes. Um professor pode permitir que arquivos sejam anexados aos posts dos fóruns. As imagens anexadas são exibidas no post do fórum.
+
+Participantes podem assinar um fórum para receber notificações de novos posts do fórum. Um professor pode definir o modo de assinatura como opcional, forçado ou automático, ou proibir as assinaturas completamente. Se necessário, é possível estabelecer um número máximo de postagens num determinado período de tempo; isto pode prevenir que alguns indivíduos dominem as discussões.
+
+Posts dos fóruns podem ser avaliados pelo professor ou pelos estudantes (avaliação por pares). As avaliações podem ser agregadas para formar uma única nota final a ser gravada no livro de notas.
+
+Fórum tem muitas utilidades, como:
+
+- Um espaço social para os estudantes se conhecerem;
+- Anúncios sobre o curso (usando um fórum de notícias com assinatura forçada);
+- Para discutir conteúdos do curso ou os materiais para leitura;
+- Para continuar online uma discussão iniciada em sala de aula;
+- Para discussões entre os professores (utilize um fórum oculto);
+- Uma central de ajuda onde tutores e estudantes podem conseguir ajuda;
+- Uma área de suporte um-para-um para comunicações particulares entre professor e estudante (usando um fórum com grupos separados e um estudante por grupo);
+- Para atividades de extensão, por exemplo "brainstorms" para estudantes sugerirem e avaliarem idéias.
+
+video::5Ey-DiMt6N0[youtube,width=640,height=480]
+
+=== Acompanhamento de Conclusão de um Curso no Moodle | Progresso do Aluno
+
+Professores podem indicar para cada curso como eles desejam que a atividade seja marcada como completada. Uma caixa/marca de seleção aparecerá ao lado da atividade. Alunos podem marcá-la para completar manualmente ou o item será automaticamente registrado como completado assim que o aluno atingir os critérios especificados. O professor pode ter um relatório de visão geral de quem completou qual atividade e ter um acompanhamento de todo o progresso do aluno dentro do curso.
+
+Como uma extensão da conclusão de atividade, ativar a Conclusão de curso permite que um curso seja marcado oficialmente como concluído, tanto manual ou automaticamente segundo critérios definidos. Se o Bloco de conclusão de curso for colocado, alunos podem ver seu progresso durante o curso. Professores podem ver o progresso geral dos estudantes na conclusão do curso. 
+
+No vídeo a seguir é apresentado como definir estas ações.
+
+video::C9GVCWYGB_Y[youtube,width=640,height=480]
+
+=== Trabalhando com a Atividade Chat na plataforma Moodle.
+
+No vídeo a seguir é apresentado pelo professor Vinicius Istofel como o módulo de atividade chat permite que os participantes possam conversar em tempo real.
+
+A conversa pode ser uma atividade de uma só vez ou pode ser repetida na mesma hora todos os dias ou todas as semanas. Sessões de chat são salvas e podem ser disponibilizadas para que todos possam visualizar ou restritas a usuários com a capacidade de visualizar os logs de sessão do chat.
+
+Chats são especialmente úteis quando um grupo de bate-papo não é capaz de se encontrar cara-a-cara, como:
+
+- Reuniões regulares dos estudantes participantes de cursos online para que possam compartilhar experiências com outros no mesmo curso, mas em um local diferente;
+- Um estudante temporariamente impossibilitado de comparecer pessoalmente conversar com seu professor para acompanhar o trabalho;
+- Estudantes na experiência de trabalho se reúnem para discutir suas experiências entre si e com seu professor;
+- Crianças mais jovens que usam chat em casa à noite como uma introdução controlada (monitorada) para o mundo das redes sociais;
+- A sessão de perguntas e respostas com um orador convidado em um local diferente;
+- Sessões para ajudar os estudantes a se prepararem para testes em que o professor ou outros estudantes, colocariam exemplos de perguntaso professor pode criar eventos no calendário para um curso do Moodle.
+
+video::dzuMpFjoEJA[youtube,width=640,height=480]
+
+=== Uso da atividade QUESTIONÁRIO
+
+A atividade Questionário permite criar e configurar questionários com questões de vários tipos, incluindo múltipla escolha, verdadeiro ou falso, correspondência, resposta curta entre outras).
+
+O professor pode permitir que o questionário tenha múltiplas tentativas, com questões embaralhadas ou selecionadas aleatoriamente de uma categoria do banco de questões.
+
+Cada tentativa é corrigida automaticamente, com exceção das questões dissertativas, e a nota é registrada no livro de notas do curso.
+
+O professor pode escolher quando e se sugestões, comentários e respostas corretas são mostradas aos estudantes.
+
+Os questionários podem ser utilizados:
+
+- Como provas de um curso;
+- Como pequenos testes para tarefas de leitura ou no final de um tópico;
+- Como prova de revisão usando questões de provas anteriores;
+- Enviar comentários imediatos sobre o desempenho;
+- Para auto-avaliação.
+
+No vídeo a seguir é apresentado pelo professor Vinicius Istofel como criar um questionário.
+
+video::mdJFYiB9QOs[youtube,width=640,height=480]
+
+=== Visualização de notas do aluno pelo professor
+
+Todas as atividades avaliativas que forem definidas pelo professor em um curso podem ser atribuidas notas. Esse recurso possibilita ao aluno a visualização do seu desempenho nas atividades de aula de forma individual. 
+
+No vídeo a seguir é apresentado pelo professor Vinicius Istofel como o aluno pode visualizar suas notas.
+
+video::PZhj8EhwimE[youtube,width=640,height=480]
+
+
