@@ -39,7 +39,7 @@ video::JnGXGApOwXU[youtube,width=640,height=480]
 
 == Transmissão ao vivo no YouTube
 
-Título: Informática no Ensino: Classroom - Estudantes
+Descrição: Transmissão de vídeo ao vivo com compartilhamento de tela no YouTube.
 
 video::wsdW4L73DH0[youtube,width=640,height=480]
 

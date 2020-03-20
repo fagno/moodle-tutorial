@@ -31,7 +31,9 @@ Google Classroom é um sistema de gerenciamento de conteúdo para escolas que pr
 
 Vídeos aulas elaboradas pelo professor Claudio Monteiro - IFTO Campus Palmas e-mail: ccm@ifto.edu.br
 
-== Informática no Ensino: Classroom - Estudantes
+== Classroom Estudantes
+
+Descrição: Uso do Classroom por estudantes.
 
 video::1p84Mlkwiww[youtube,width=640,height=480]
 
