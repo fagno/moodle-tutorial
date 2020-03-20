@@ -46,13 +46,13 @@ WARNING: Estudantes tentam equivocadamente acessar o Moodle da Reitoria.
 
 video::sBTjg_I-nTQ[youtube,width=640,height=480]
 
-== RECURSOS E ATIVIDADES DO MOODLE
+== Recursos e Atividades do Moodle
 
 Existem diversos recursos e atividades na plataforma Moodle. Este tutorial apresenta alguns dos mais utilizados por professores em suas aulas. O Vídeo a seguir apresenta como adicionar um atividade ou recurso dentro do Moodle.
 
 video::o42C_rjNPv8[youtube,width=640,height=480]
 
-== RECURSOS
+== Recursos
 
 === Inserir um recurso URL em um curso no Moodle
 
@@ -96,7 +96,7 @@ No vídeo a seguir é apresentado como enviar mensagens através do Moodle.
 
 video::xzvSUXKKNGw[youtube,width=640,height=480]
 
-== ATIVIDADES
+== Atividades
 
 === Criando uma atividade Lição em um curso no Moodle
 
