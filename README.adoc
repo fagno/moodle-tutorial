@@ -36,11 +36,11 @@ Este tutorial foi construído a fim de apresentar as principais funcionalidades 
 A seguir apresentamos tópicos para professores e alunos:
 
 ifndef::backend-pdf[]
-1. link:topics/Professor.adoc[Tutorial para Professores]
+1. link:topics/professor.adoc[Tutorial para Professores]
 endif::[]
 
 ifndef::backend-pdf[]
-2. link:topics/Aluno.adoc[Tutorial para Alunos]
+2. link:topics/aluno.adoc[Tutorial para Alunos]
 endif::[]
 
 IMPORTANT: Em caso de dúvidas entre em contato com o suporte moodle através do endereço de e-mail: moodle.palmas@ifto.edu.br
