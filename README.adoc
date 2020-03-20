@@ -31,16 +31,16 @@
 
 Para ter acesso a plataforma Moodle é necessário que tanto o professor quanto o aluno esteja cadastrado na plataforma. Este cadastro é efetuado pela equipe de suporte da mesma, em caso de problemas com acesso, entrar em contato através do e-mail: https://moodle.palmas@ifto.edu.br.
 
-Professores e Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA.
+IMPORTANT: Professores e Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA.
 
-Professores devem utilizar a matrícula como login,  já alunos o CPF (somente números).
+IMPORTANT: Professores devem utilizar a matrícula como login,  já alunos o CPF (somente números).
 
 Existem dois ambientes Moodle principais no IFTO:
 
 - Moodle Reitoria: apenas cursos do ensino à distância, endereço: https://moodle.ifto.edu.br
 - Moodle Palmas: cursos presenciais do campus Palmas, endereço: http://moodlepalmas.ifto.edu.br
 
-NOTA: Estudantes tentam equivocadamente acessar o Moodle da Reitoria.
+WARNING: Estudantes tentam equivocadamente acessar o Moodle da Reitoria.
 
 == Vídeo de apresentação para primeiro acesso
 
@@ -199,3 +199,6 @@ Todas as atividades avaliativas que forem definidas pelo professor em um curso p
 No vídeo a seguir é apresentado pelo professor Vinicius Istofel como o aluno pode visualizar suas notas.
 
 video::PZhj8EhwimE[youtube,width=640,height=480]
+
+link:topics/professor.adoc[Tutorial para Professores]
+
