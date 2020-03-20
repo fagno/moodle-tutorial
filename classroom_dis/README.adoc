@@ -27,6 +27,10 @@
 
 = Tutorial Google Classroom
 
+Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.
+
+Vídeos aulas elaboradas pelo professor Claudio Monteiro - IFTO Campus Palmas e-mail: ccm@ifto.edu.br
+
 == Informática no Ensino: Classroom - Estudantes
 
 video::1p84Mlkwiww[youtube,width=640,height=480]

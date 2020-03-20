@@ -25,21 +25,33 @@
 :lang: pt-BR
 //3+| mesclar linha tabela
 
-= Tutorial Google Classroom - 
+= Tutorial Google Classroom 
+
+Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.
+
+Vídeos aulas elaboradas pelo professor Claudio Monteiro - IFTO Campus Palmas e-mail: ccm@ifto.edu.br
 
 == Classroom Professores
+
+Descrição: Uso do Google Classroom por professores.
 
 video::JnGXGApOwXU[youtube,width=640,height=480]
 
 == Transmissão ao vivo no YouTube
 
+Título: Informática no Ensino: Classroom - Estudantes
+
 video::wsdW4L73DH0[youtube,width=640,height=480]
 
 == Enviando um vídeo ao YouTube
 
+Descrição: Como enviar um vídeo ao Youtube através do celular.
+
 video::5YC3RnLPlvk[youtube,width=640,height=480]
 
 == Video aulas direto do celular
+
+Descrição: Gravando vídeos com ADV Recorder.
 
 video::bCE_0VEO0rc[youtube,width=640,height=480]
 
