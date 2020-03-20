@@ -56,6 +56,8 @@ WARNING: Quando os estudantes e professores dos Campus citado acima forem cadast
 
 == Vídeo de apresentação para primeiro acesso
 
+O vídeo a seguir apresenta o acesso através do Moodle do Campus Palmas, no entanto, o que muda em relação ao Moodle da Reitoria é apenas o endereço de acesso.
+
 video::v_vQvUifMm0[youtube,width=640,height=480]
 
 == RECURSOS E ATIVIDADES DO MOODLE
