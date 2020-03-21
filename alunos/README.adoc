@@ -29,30 +29,37 @@
 
 == Primeiro Acesso
 
-Para ter acesso a plataforma Moodle é necessário que o aluno esteja cadastrado na plataforma. Este cadastro é efetuado pela equipe de suporte da mesma, em caso de problemas com acesso, entrar em contato através do e-mail: https://moodle.palmas@ifto.edu.br.
+Para ter acesso a plataforma Moodle é necessário que o aluno esteja cadastrado na mesma.
 
-Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA.
+IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA.
+
+WARNING: Os alunos do Campus Palmas devem entrar em contato através do e-mail: moodle.palmas@ifto.edu.br em caso de problemas.
+
+WARNING: Aos Alunos dos campus PORTO NACIONAL, GURUPI, COLINAS, ARAGUATINS, DIANOPOLIS, AVANÇADO PEDRO AFONSO E AVANÇADO FORMOSO DO ARAGUAINA, devem entrar em contato com o responsável do seu campus através do e-mail abaixo em caso de problemas.
+
+1. Campus Araguatins (e-mail: rayllon.reis@ifto.edu.br)
+
+2. Campus Colinas (e-mail: luciano.moraes@ifto.edu.br)
+
+3. Campus Dianópolis (e-mail: diego.fonseca@ifto.edu.br)
+
+4. Campus Formoso do Araguaia (e-mail: igor.souza@ifto.edu.br)
+
+5. Campus Gurupi (e-mail: guilherme.quintino@ifto.edu.br)
+
+6. Campus Pedro Afonso (e-mail: hugo.pereira@ifto.edu.br)
+
+7. Campus Porto Nacional (e-mail: renan.albuquerque@ifto.edu.br)
+
+WARNING: Quando os estudantes e professores dos Campus citado acima forem cadastrados na plataforma, os responsáveis serão comunicados.
+
 
 Existem dois ambientes Moodle principais no IFTO:
 
-- Moodle Reitoria: apenas cursos do ensino à distância, endereço: https://moodle.ifto.edu.br
-- Moodle Palmas: cursos presenciais do campus Palmas, endereço: http://moodlepalmas.ifto.edu.br
+- Moodle Reitoria: apenas cursos do ensino à distância e campus listado acima, endereço: https://moodle.ifto.edu.br
+- Moodle Palmas: cursos presenciais do campus Palmas, endereço: https://moodlepalmas.ifto.edu.br
 
 WARNING: Estudantes do Campus Palmas tentam equivocadamente acessar o Moodle da Reitoria.
-
-Para os estudantes dos Campus listado abaixo, o acesso é através do Moodle Reitoria no endereço: https://moodle.ifto.edu.br.
-
-Assim que forem cadastrados na plataforma, o acesso na mesma é com os dados do SIGA.
-
-- CAMPUS PORTO NACIONAL
-- CAMPUS GURUPI
-- CAMPUS COLINAS DO TOCANTINS
-- CAMPUS ARAGUATINS
-- CAMPUS DIANÓPOLIS
-- CAMPUS AVANÇADO PEDRO AFONSO
-- CAMPUS AVANÇADO FORMOSO DO ARAGUAIA 
-
-WARNING: Quando os estudantes e professores dos Campus citado acima forem cadastrados na plataforma, os responsáveis serão comunicados.
 
 == Vídeo de apresentação para primeiro acesso
 
