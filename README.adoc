@@ -36,9 +36,9 @@ Este tutorial foi construído pelos professor Fagno Fonseca e Vinicius Istofel a
 
 A seguir apresentamos tópicos com conteúdo para professores e alunos:
 
-1. link:professores/[Tutorial para Professores]
+1. link:moodle-professores/[Tutorial para Professores]
 
-2. link:alunos/[Tutorial para Alunos]
+2. link:moodle-alunos/[Tutorial para Alunos]
 
 IMPORTANT: Em caso de dúvidas entre em contato com o suporte moodle através do endereço de e-mail: moodle.palmas@ifto.edu.br
 
@@ -48,7 +48,7 @@ Google Classroom é um sistema de gerenciamento de conteúdo para escolas que pr
 
 Vídeos aulas elaboradas pelo professor Claudio Monteiro - IFTO Campus Palmas e-mail: ccm@ifto.edu.br
 
-1. link:classroom_doc/[Tutorial para Professores]
+1. link:classroom-professores/[Tutorial para Professores]
 
-2. link:classroom_dis/[Tutorial para Alunos]
+2. link:classroom-alunos/[Tutorial para Alunos]
 
