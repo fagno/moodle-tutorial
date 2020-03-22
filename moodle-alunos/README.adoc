@@ -29,9 +29,7 @@
 
 == Primeiro Acesso
 
-Para ter acesso a plataforma Moodle é necessário que o aluno esteja cadastrado na mesma.
-
-IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA.
+Para ter acesso a plataforma Moodle é necessário que os alunos estejam cadastrado na mesma.
 
 WARNING: Os alunos do Campus Palmas devem entrar em contato através do e-mail: moodle.palmas@ifto.edu.br em caso de problemas.
 
@@ -51,15 +49,14 @@ WARNING: Aos Alunos dos campus PORTO NACIONAL, GURUPI, COLINAS, ARAGUATINS, DIAN
 
 7. Campus Porto Nacional (e-mail: renan.albuquerque@ifto.edu.br)
 
-WARNING: Quando os estudantes e professores dos Campus citado acima forem cadastrados na plataforma, os responsáveis serão comunicados.
+IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA.
 
+IMPORTANT: Estudantes devem utilizar o CPF (somente números) como login. 
 
 Existem dois ambientes Moodle principais no IFTO:
 
-- Moodle Reitoria: apenas cursos do ensino à distância e campus listado acima, endereço: https://moodle.ifto.edu.br
 - Moodle Palmas: cursos presenciais do campus Palmas, endereço: https://moodlepalmas.ifto.edu.br
-
-WARNING: Estudantes do Campus Palmas tentam equivocadamente acessar o Moodle da Reitoria.
+- Moodle Reitoria: apenas cursos do ensino à distância e campus listado acima, endereço: https://moodle.ifto.edu.br
 
 == Vídeo de apresentação para primeiro acesso
 
