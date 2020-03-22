@@ -56,8 +56,8 @@ IMPORTANT: Professores devem utilizar a matrícula como login,  já alunos o CPF
 
 Existem dois ambientes Moodle principais no IFTO:
 
-- Moodle Palmas: cursos presenciais do campus Palmas, endereço: http://moodlepalmas.ifto.edu.br
-- Moodle Reitoria: cursos do ensino à distância e campus do IFTO listado acima, endereço: https://moodle.ifto.edu.br
+- Moodle Palmas: cursos presenciais do campus Palmas, endereço: https://moodlepalmas.ifto.edu.br
+- Moodle Reitoria: cursos do ensino à distância e cursos dos campus listado acima, endereço: https://moodle.ifto.edu.br
 
 == Vídeo de apresentação para primeiro acesso
 

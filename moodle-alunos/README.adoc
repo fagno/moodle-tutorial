@@ -33,7 +33,7 @@ Para ter acesso a plataforma Moodle é necessário que os alunos estejam cadastr
 
 WARNING: Os alunos do Campus Palmas devem entrar em contato através do e-mail: moodle.palmas@ifto.edu.br em caso de problemas.
 
-WARNING: Aos Alunos dos campus PORTO NACIONAL, GURUPI, COLINAS, ARAGUATINS, DIANOPOLIS, AVANÇADO PEDRO AFONSO E AVANÇADO FORMOSO DO ARAGUAINA, devem entrar em contato com o responsável do seu campus através do e-mail abaixo em caso de problemas.
+WARNING: Os Alunos dos campus PORTO NACIONAL, GURUPI, COLINAS, ARAGUATINS, DIANOPOLIS, AVANÇADO PEDRO AFONSO E AVANÇADO FORMOSO DO ARAGUAINA, devem entrar em contato com o responsável do seu campus através do e-mail abaixo em caso de problemas.
 
 1. Campus Araguatins (e-mail: rayllon.reis@ifto.edu.br)
 
@@ -49,14 +49,12 @@ WARNING: Aos Alunos dos campus PORTO NACIONAL, GURUPI, COLINAS, ARAGUATINS, DIAN
 
 7. Campus Porto Nacional (e-mail: renan.albuquerque@ifto.edu.br)
 
-IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA.
-
-IMPORTANT: Estudantes devem utilizar o CPF (somente números) como login. 
+IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA. No login devem utilizar o CPF (somente números). 
 
 Existem dois ambientes Moodle principais no IFTO:
 
 - Moodle Palmas: cursos presenciais do campus Palmas, endereço: https://moodlepalmas.ifto.edu.br
-- Moodle Reitoria: apenas cursos do ensino à distância e campus listado acima, endereço: https://moodle.ifto.edu.br
+- Moodle Reitoria: cursos do ensino à distância e cursos dos campus listado acima, endereço: https://moodle.ifto.edu.br
 
 == Vídeo de apresentação para primeiro acesso
 
