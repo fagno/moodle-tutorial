@@ -79,6 +79,12 @@ video::o42C_rjNPv8[youtube,width=640,height=480]
 
 == Recursos
 
+=== Adicionar e Editar Tópicos no Moodle
+
+Os tópicos permitem organizar o conteúdo dentro de uma disciplina no Moodle.
+
+video::R1amiCX2s0A[youtube,width=640,height=480]
+
 === Inserir um recurso URL em um curso no Moodle
 
 O módulo de URL permite que um professor para fornecer um link de web como um recurso do curso. Qualquer coisa que esteja livremente disponível on-line, como documentos ou imagens, pode ser vinculada.
