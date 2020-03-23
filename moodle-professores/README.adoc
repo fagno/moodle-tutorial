@@ -33,7 +33,7 @@ Para ter acesso a plataforma Moodle é necessário que professores e alunos este
 
 WARNING: Professores do Campus Palmas em caso de problemas, entrar em contato através do e-mail: moodle.palmas@ifto.edu.br.
 
-WARNING: Professores dos campus PORTO NACIONAL, GURUPI, COLINAS, ARAGUATINS, DIANOPOLIS, AVANÇADO PEDRO AFONSO E AVANÇADO FORMOSO DO ARAGUAINA, em caso de problemas devem entrar em contato com o responsável do seu campus através do e-mail abaixo.
+WARNING: Professores dos campi PORTO NACIONAL, GURUPI, COLINAS, ARAGUATINS, DIANOPOLIS, AVANÇADO PEDRO AFONSO E AVANÇADO FORMOSO DO ARAGUAINA, em caso de problemas devem entrar em contato com o responsável do seu campus através do e-mail abaixo.
 
 1. Campus Araguatins (e-mail: rayllon.reis@ifto.edu.br)
 
@@ -41,11 +41,11 @@ WARNING: Professores dos campus PORTO NACIONAL, GURUPI, COLINAS, ARAGUATINS, DIA
 
 3. Campus Dianópolis (e-mail: diego.fonseca@ifto.edu.br)
 
-4. Campus Formoso do Araguaia (e-mail: igor.souza@ifto.edu.br)
+4. Campus Avançado de Formoso do Araguaia (e-mail: igor.souza@ifto.edu.br)
 
 5. Campus Gurupi (e-mail: guilherme.quintino@ifto.edu.br)
 
-6. Campus Pedro Afonso (e-mail: hugo.pereira@ifto.edu.br)
+6. Campus Avançado de Pedro Afonso (e-mail: hugo.pereira@ifto.edu.br)
 
 7. Campus Porto Nacional (e-mail: renan.albuquerque@ifto.edu.br)
 
