@@ -27,32 +27,19 @@
 
 = Moodle Mobile
 
-== Moodle Campus Palmas
-
 Vídeo de apresentação: https://www.youtube.com/watch?v=6baJWsoH2bI
 
 1. passo: Efetuar download do aplicativo na Google Play ou App Store.
-2. Passo: Inserir URL da página do Moodle Campus Palmas: https://moodlepalmas.ifto.edu.br/moodle no campo Site address conforme figura 1.
+2. Passo: Inserir URL da página do Moodle
 
-.Inserir URL da página do Moodle Campus Palmas
+IMPORTANT: Moodle Campus Palmas: inserir a URL https://moodlepalmas.ifto.edu.br/moodle no campo Site address conforme figura 1.
+
+IMPORTANT: Moodle Reitoria: inserir a URL https://moodle.ifto.edu.br/moodle no campo Site address conforme figura 1.
+
+.Inserir URL da página do Moodle
 image::moodle-mobile-img1.png[]
 
-3. Passo: Inserir usuário e senha.
-
-.Inserir usuário e senha
-image::moodle-mobile-img2.png[]
-
-== Moodle Reitoria
-
-Vídeo de apresentação: https://www.youtube.com/watch?v=6baJWsoH2bI
-
-1. passo: Efetuar download do aplicativo na Google Play ou App Store.
-2. Passo: Inserir URL da página do Moodle Campus Palmas: https://moodle.ifto.edu.br/moodle no campo Site address conforme figura 1.
-
-.Inserir URL da página do Moodle Campus Palmas
-image::moodle-mobile-img1.png[]
-
-3. Passo: Inserir usuário e senha.
+3. Passo: Inserir usuário e senha no campo Username e Password conforme figura 2.
 
 .Inserir usuário e senha
 image::moodle-mobile-img2.png[]
