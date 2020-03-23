@@ -62,17 +62,17 @@ O vídeo a seguir apresenta o acesso através do Moodle do Campus Palmas, no ent
 
 video::v_vQvUifMm0[youtube,width=640,height=480]
 
-== RECURSOS E ATIVIDADES DO MOODLE
-
-Existem diversos recursos e atividades na plataforma Moodle. Este tutorial apresenta alguns dos mais utilizados por professores em suas aulas. O Vídeo a seguir apresenta como adicionar um atividade ou recurso dentro do Moodle.
-
-video::o42C_rjNPv8[youtube,width=640,height=480]
-
 === Enviando e recebendo mensagens através do Moodle
 
 No vídeo a seguir é apresentado como enviar mensagens através do Moodle.
 
 video::xzvSUXKKNGw[youtube,width=640,height=480]
+
+=== Enviando uma tarefa para o professor em um curso no Moodle
+
+Nesta aula é apresentado como o esudante pode enviar um arquivo em qualquer formato para o professor.
+
+video::Rsgdq9EcO94[youtube,width=640,height=480]
 
 === Enviando uma mensagem ao fórum de um curso no Moodle 
 

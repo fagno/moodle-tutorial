@@ -97,7 +97,7 @@ Para inserir uma URL em um curso no Moodle, ative o modo de edição e adicione 
 
 video::JRpzsJvlOj0[youtube,width=640,height=480]
 
-=== Criando um recurso Rótulo em um curso Moodle
+=== Adicionar vídeos e imagens com Rótulo em um curso Moodle
 
 Um rótulo permite que texto, imagens e vídeos possam ser inserido na página do curso. Rótulos são muito versáteis e podem ajudar a melhorar a aparência de um curso caso utilizado sabiamente.
 
@@ -150,6 +150,12 @@ Os estudantes podem apresentar qualquer conteúdo digital (arquivos), como docum
 Ao analisar os trabalhos, os professores podem deixar comentários de feedback e fazer upload de arquivos, como marcar apresentações dos estudantes, documentos com comentários. Notas finais são registradas no livro de notas.
 
 video::-dXCrY-diFg[youtube,width=640,height=480]
+
+=== Enviando uma tarefa para o professor em um curso no Moodle
+
+Nesta aula é apresentado como o esudante pode enviar um arquivo em qualquer formato para o professor.
+
+video::Rsgdq9EcO94[youtube,width=640,height=480]
 
 === Enviando uma mensagem ao fórum de um curso no Moodle 
 
