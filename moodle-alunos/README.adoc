@@ -49,6 +49,8 @@ WARNING: Os Alunos dos campi PORTO NACIONAL, GURUPI, COLINAS, ARAGUATINS, DIANOP
 
 7. Campus Porto Nacional (e-mail: renan.albuquerque@ifto.edu.br)
 
+8. Campus Paraíso do Tocantins (e-mail: ricardo.pimentel@ifto.efu.br e bruno.ribeiro@ifto.edu.br)
+
 IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA. No login devem utilizar o CPF (somente números). 
 
 Existem dois ambientes Moodle principais no IFTO:
