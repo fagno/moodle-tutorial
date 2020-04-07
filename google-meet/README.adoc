@@ -25,6 +25,8 @@
 :lang: pt-BR
 //3+| mesclar linha tabela
 
+link:https://fagno.github.io/moodle-tutorial/[HOME]
+
 = Google Meet
 
 Com o Google Meet você cria reuniões sem se preocupar se colegas de equipe ou clientes têm a conta ou os plug-ins certos. Com uma interface rápida e leve e o gerenciamento inteligente de participantes, é bem fácil fazer videochamadas com várias pessoas.
