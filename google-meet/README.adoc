@@ -39,7 +39,7 @@ video::55gAGcbddxI[youtube,width=640,height=480]
 
 video::K-xEKOlGPB8[youtube,width=640,height=480]
 
-== Programar uma videochamada no Agenda
+== Aplicativo Google Meet
 
 Participe das reuniões mesmo quando você não estiver na sua mesa de trabalho.
 Com os aplicativos Meet criados especialmente para iOS e Android, você pode ver no Agenda as reuniões do dia, com todas as informações importantes. Basta um toque para participar. O G Suite Enterprise também cria um número de telefone de discagem para cada reunião, assim todos os convidados têm a experiência ideal, mesmo fora do escritório sem acesso a Wi-Fi ou dados.
