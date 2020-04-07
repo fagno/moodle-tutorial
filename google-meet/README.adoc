@@ -45,6 +45,7 @@ Participe das reuniões mesmo quando você não estiver na sua mesa de trabalho.
 Com os aplicativos Meet criados especialmente para iOS e Android, você pode ver no Agenda as reuniões do dia, com todas as informações importantes. Basta um toque para participar. O G Suite Enterprise também cria um número de telefone de discagem para cada reunião, assim todos os convidados têm a experiência ideal, mesmo fora do escritório sem acesso a Wi-Fi ou dados.
 
 Download link:https://play.google.com/store/apps/details?id=com.google.android.apps.meetings/[Google Play]
+
 Download link:https://apps.apple.com/br/app/hangouts-meet-do-google/id1013231476/[Apple Store]
 
 
