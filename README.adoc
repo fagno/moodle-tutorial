@@ -60,4 +60,4 @@ Com o Google Meet você cria reuniões sem se preocupar se colegas de equipe ou 
 
 Como o Meet é totalmente integrado ao G Suite, você pode participar de reuniões a partir de um evento do Agenda ou um convite por e-mail. Todos os detalhes importantes do evento estão disponíveis quando necessário: seja em um laptop, um smartphone ou uma sala de conferências.
 
-1. link:google-meet/[Google Meet]
+1. link:google-meet/[Tutorial Google Meet]
