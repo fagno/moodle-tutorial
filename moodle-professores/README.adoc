@@ -241,4 +241,16 @@ No vídeo a seguir é apresentado pelo professor Vinicius Istofel como o aluno p
 
 video::PZhj8EhwimE[youtube,width=640,height=480]
 
+== Conteúdo Interativo com H5P
 
+O H5P facilita a criação de conteúdo interativo, fornecendo uma variedade de tipos de conteúdo para diversas necessidades.
+
+=== Aula 01 - Como criar um conteúdo interativo com H5P no Moodle
+
+video::2o-0rjC81qo[youtube,width=640,height=480]
+
+== Referências
+
+1. https://moodle.org/
+
+1. https://h5p.org/
