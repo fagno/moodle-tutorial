@@ -247,9 +247,13 @@ O H5P facilita a criação de conteúdo interativo, fornecendo uma variedade de 
 
 === Aula 01 - Como criar um conteúdo interativo com H5P no Moodle
 
+Neste vídeo é apresentado todos os tipos de conteúdos disponiveis pela ferramenta H5P. 
+
 video::2o-0rjC81qo[youtube,width=640,height=480]
 
 === Aula 02 - Criando um Vídeo Interativo - H5P no Moodle
+
+Este recurso permite que você crie diversas formas de interações durante a reprodução de um vídeo. 
 
 ==== Parte 1
 
@@ -260,6 +264,8 @@ video::OguIs5OMCNs[youtube,width=640,height=480]
 video::aXi-2hosn2I[youtube,width=640,height=480]
 
 === Aula 03 - Layout em Colunas - H5P no Moodle
+
+O recurso Column permite distribuir seu conteúdo utilizando um layout em colunas dentro da plataforma Moodle e utilizar todos os recursos disponíveis pela ferramenta H5P.
 
 video::tUR6P9HZP_Q[youtube,width=640,height=480]
 
