@@ -259,6 +259,10 @@ video::OguIs5OMCNs[youtube,width=640,height=480]
 
 video::aXi-2hosn2I[youtube,width=640,height=480]
 
+=== Aula 03 - Utilizando Column - H5P no Moodle
+
+video::tUR6P9HZP_Q[youtube,width=640,height=480]
+
 == Referências
 
 1. https://moodle.org/
