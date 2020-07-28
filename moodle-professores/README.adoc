@@ -249,7 +249,7 @@ O H5P facilita a criação de conteúdo interativo, fornecendo uma variedade de 
 
 video::2o-0rjC81qo[youtube,width=640,height=480]
 
-=== Aula 02 - Utilizando Interactive Video - H5P no Moodle
+=== Aula 02 - Criando um Vídeo Interativo - H5P no Moodle
 
 ==== Parte 1
 
@@ -259,7 +259,7 @@ video::OguIs5OMCNs[youtube,width=640,height=480]
 
 video::aXi-2hosn2I[youtube,width=640,height=480]
 
-=== Aula 03 - Utilizando Column - H5P no Moodle
+=== Aula 03 - Layout em Colunas - H5P no Moodle
 
 video::tUR6P9HZP_Q[youtube,width=640,height=480]
 
