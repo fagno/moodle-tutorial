@@ -190,7 +190,13 @@ Professores podem indicar para cada curso como eles desejam que a atividade seja
 
 Como uma extensão da conclusão de atividade, ativar a Conclusão de curso permite que um curso seja marcado oficialmente como concluído, tanto manual ou automaticamente segundo critérios definidos. Se o Bloco de conclusão de curso for colocado, alunos podem ver seu progresso durante o curso. Professores podem ver o progresso geral dos estudantes na conclusão do curso. 
 
-No vídeo a seguir é apresentado como definir estas ações.
+Nos vídeos a seguir são apresentados como definir estas ações.
+
+==== Versão Moodle 3
+
+video::TGTitxOeaAw[youtube,width=640,height=480]
+
+==== Versão Moodle 2
 
 video::C9GVCWYGB_Y[youtube,width=640,height=480]
 
