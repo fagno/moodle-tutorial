@@ -269,11 +269,11 @@ video::2o-0rjC81qo[youtube,width=640,height=480]
 
 Este recurso permite que você crie diversas formas de interações durante a reprodução de um vídeo. 
 
-==== Parte 1
+==== Vídeo Interativo - Parte 1
 
 video::OguIs5OMCNs[youtube,width=640,height=480]
 
-==== Parte 2
+==== Vídeo Interativo - Parte 2
 
 video::aXi-2hosn2I[youtube,width=640,height=480]
 
