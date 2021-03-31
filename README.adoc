@@ -30,7 +30,7 @@
 
 == Sobre este Tutorial
 
-Este tutorial é composto por vários vídeos elaborados pelos professores Fagno Fonseca<fagno.fonseca@ifto.edu.br>, Vinicius Istofel<viniciusoliveira@ifto.edu.br> e Ana Paula Guimarães<ana.guimaraes@ifto.edu.br>, com o objetivo de apresentar as principais funcionalidades da plataforma Moodle aos professores e alunos do Instituto Federal de Ciência e Tecnologia do Tocantins - IFTO. 
+Este tutorial é composto por vários vídeos elaborados pelos professores Fagno Fonseca <fagno.fonseca@ifto.edu.br>, Vinicius Istofel <viniciusoliveira@ifto.edu.br>, Ana Paula Guimarães <ana.guimaraes@ifto.edu.br> e Claudio Monteiro <ccm@ifto.edu.br>, com o objetivo de apresentar as principais funcionalidades da plataforma Moodle, Google Classroom, e Google Meet, aos professores e alunos do Instituto Federal de Ciência e Tecnologia do Tocantins - IFTO. 
 
 == Plataforma Moodle
 
@@ -51,8 +51,6 @@ IMPORTANT: Em caso de dúvidas entre em contato com o suporte moodle através do
 == Google Classroom
 
 Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.
-
-Vídeos aulas elaboradas pelo professor Claudio Monteiro - IFTO Campus Palmas e-mail: ccm@ifto.edu.br
 
 1. link:classroom-professores/[Tutorial para Professores]
 
