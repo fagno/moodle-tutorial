@@ -225,7 +225,7 @@ Chats são especialmente úteis quando um grupo de bate-papo não é capaz de se
 
 video::dzuMpFjoEJA[youtube,width=640,height=480]
 
-=== Uso da atividade QUESTIONÁRIO
+=== Uso da atividade Questionário
 
 A atividade Questionário permite criar e configurar questionários com questões de vários tipos, incluindo múltipla escolha, verdadeiro ou falso, correspondência, resposta curta entre outras).
 
