@@ -36,8 +36,6 @@ Este tutorial é composto por vários vídeos elaborados pelos professores Fagno
 
 A plataforma MOODLE (Modular Object-Oriented Dynamic Learning Environment) é um software livre, de apoio à aprendizagem. Um Sistema de gestão da aprendizagem em trabalho colaborativo acessível através da Internet ou de rede local. Atualmente é a plataforma utilizada pelo IFTO nos cursos de modalidade a distância e também como instrumento de apoio ao ensino presencial.
 
-IMPORTANT: Suporte Moodle: moodle.palmas@ifto.edu.br.
-
 A seguir apresentamos tópicos com conteúdo para professores e alunos:
 
 1. link:moodle-professores/[Tutorial para Professores]
