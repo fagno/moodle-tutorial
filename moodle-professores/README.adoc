@@ -247,6 +247,12 @@ No vídeo a seguir é apresentado pelo professor Vinicius Istofel como criar um 
 
 video::mdJFYiB9QOs[youtube,width=640,height=480]
 
+=== Reutilização de Questionários na plataforma Moodle
+
+Neste vídeo você vai aprender a utilizar o mesmo questionário em outras disciplinas no Moodle.
+
+video::DX5A1J7kPpc[youtube,width=640,height=480]
+
 === Visualização de notas do aluno pelo professor
 
 Todas as atividades avaliativas que forem definidas pelo professor em um curso podem ser atribuidas notas. Esse recurso possibilita ao aluno a visualização do seu desempenho nas atividades de aula de forma individual. 
