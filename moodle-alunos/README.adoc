@@ -70,7 +70,7 @@ video::v_vQvUifMm0[youtube,width=640,height=480]
 
 No vídeo a seguir é apresentado como enviar mensagens através do Moodle.
 
-video::xzvSUXKKNGw[youtube,width=640,height=480]
+video::wQP0E-NxFv0[youtube,width=640,height=480]
 
 === Enviando uma tarefa para o professor em um curso no Moodle
 
@@ -124,4 +124,4 @@ Todas as atividades avaliativas que forem definidas pelo professor em um curso p
 
 No vídeo a seguir é apresentado pelo professor Vinicius Istofel como o aluno pode visualizar suas notas.
 
-video::PZhj8EhwimE[youtube,width=640,height=480]
+video::Nt9-o3sXyx8[youtube,width=640,height=480]
