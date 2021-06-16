@@ -99,7 +99,8 @@ Fórum tem muitas utilidades, como:
 - Uma área de suporte um-para-um para comunicações particulares entre professor e estudante (usando um fórum com grupos separados e um estudante por grupo);
 - Para atividades de extensão, por exemplo "brainstorms" para estudantes sugerirem e avaliarem idéias.
 
-video::5Ey-DiMt6N0[youtube,width=640,height=480]
+video::orrQ8yMFpgY[youtube,width=640,height=480]
+//video::5Ey-DiMt6N0[youtube,width=640,height=480]
 
 === Trabalhando com a Atividade Chat na plataforma Moodle.
 
@@ -116,7 +117,8 @@ Chats são especialmente úteis quando um grupo de bate-papo não é capaz de se
 - A sessão de perguntas e respostas com um orador convidado em um local diferente;
 - Sessões para ajudar os estudantes a se prepararem para testes em que o professor ou outros estudantes, colocariam exemplos de perguntaso professor pode criar eventos no calendário para um curso do Moodle.
 
-video::dzuMpFjoEJA[youtube,width=640,height=480]
+video::oxTp0JhN4Gg[youtube,width=640,height=480]
+//video::dzuMpFjoEJA[youtube,width=640,height=480]
 
 === Visualização de notas do aluno pelo professor
 

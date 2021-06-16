@@ -99,7 +99,8 @@ Observe que URLs também podem ser adicionados a qualquer outro tipo de recurso 
 
 Para inserir uma URL em um curso no Moodle, ative o modo de edição e adicione um novo recurso URL. Mais informações no vídeo a seguir.
 
-video::JRpzsJvlOj0[youtube,width=640,height=480]
+video::lW0TYXX09Y[youtube,width=640,height=480]
+//video::JRpzsJvlOj0[youtube,width=640,height=480]
 
 === Adicionar vídeos e imagens com Rótulo em um curso Moodle
 
@@ -123,7 +124,8 @@ Note-se que os estudantes precisam ter o software adequado em seus computadores 
 
 Para inserir um arquivo em um curso no Moodle, ative o modo de edição e adicione um novo arquivo. Mais informações no vídeo a seguir.
 
-video::dTW25ZjapmY[youtube,width=640,height=480]
+video::zuAepKdXkU8[youtube,width=640,height=480]
+//video::dTW25ZjapmY[youtube,width=640,height=480]
 
 === Enviando e recebendo mensagens através do Moodle
 
