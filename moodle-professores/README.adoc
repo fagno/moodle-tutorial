@@ -131,7 +131,7 @@ video::zuAepKdXkU8[youtube,width=640,height=480]
 
 No vídeo a seguir é apresentado como enviar mensagens através do Moodle.
 
-video::VWFWXDr7VQ[youtube,width=640,height=480]
+video::_VWFWXDr7VQ[youtube,width=640,height=480]
 //video::xzvSUXKKNGw[youtube,width=640,height=480]
 
 == Atividades
