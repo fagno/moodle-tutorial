@@ -79,7 +79,7 @@ video::lvzC-sYKtQQ[youtube,width=640,height=480]
 
 Existem diversos recursos e atividades na plataforma Moodle. Este tutorial apresenta alguns dos mais utilizados por professores em suas aulas. O Vídeo a seguir apresenta como adicionar um atividade ou recurso dentro do Moodle.
 
-video::o42C_rjNPv8[youtube,width=640,height=480]
+video::Gu2CEVQxslo[youtube,width=640,height=480]
 
 == Recursos
 
@@ -99,7 +99,7 @@ Observe que URLs também podem ser adicionados a qualquer outro tipo de recurso 
 
 Para inserir uma URL em um curso no Moodle, ative o modo de edição e adicione um novo recurso URL. Mais informações no vídeo a seguir.
 
-video::lW0TYXX09Y[youtube,width=640,height=480]
+video::-lW0TYXX09Y[youtube,width=640,height=480]
 //video::JRpzsJvlOj0[youtube,width=640,height=480]
 
 === Adicionar vídeos e imagens com Rótulo em um curso Moodle
@@ -131,7 +131,8 @@ video::zuAepKdXkU8[youtube,width=640,height=480]
 
 No vídeo a seguir é apresentado como enviar mensagens através do Moodle.
 
-video::xzvSUXKKNGw[youtube,width=640,height=480]
+video::VWFWXDr7VQ[youtube,width=640,height=480]
+//video::xzvSUXKKNGw[youtube,width=640,height=480]
 
 == Atividades
 
@@ -155,7 +156,8 @@ Os estudantes podem apresentar qualquer conteúdo digital (arquivos), como docum
 
 Ao analisar os trabalhos, os professores podem deixar comentários de feedback e fazer upload de arquivos, como marcar apresentações dos estudantes, documentos com comentários. Notas finais são registradas no livro de notas.
 
-video::-dXCrY-diFg[youtube,width=640,height=480]
+video::MPk7rZOglx8[youtube,width=640,height=480]
+//video::-dXCrY-diFg[youtube,width=640,height=480]
 
 === Enviando uma tarefa para o professor em um curso no Moodle
 
