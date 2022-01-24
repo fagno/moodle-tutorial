@@ -75,6 +75,12 @@ Você pode importar todo o conteúdo de um disciplina para outra caso o conteúd
 
 video::lvzC-sYKtQQ[youtube,width=640,height=480]
 
+== Criar backup de curso/disciplina e restaurar em outra plataforma Moodle
+
+Você pode gerar um backup de um curso/disciplina no Moodle e restaurar em outra plataforma. 
+
+video::8STZuIBHIHY[youtube,width=640,height=480]
+
 == Recursos e Atividades do Moodle
 
 Existem diversos recursos e atividades na plataforma Moodle. Este tutorial apresenta alguns dos mais utilizados por professores em suas aulas. O Vídeo a seguir apresenta como adicionar um atividade ou recurso dentro do Moodle.
@@ -140,13 +146,13 @@ video::_VWFWXDr7VQ[youtube,width=640,height=480]
 
 Uma lição publica o conteúdo em um modo interessante e flexível. Ela consiste em um certo número de páginas. Cada página, normalmente, termina com uma questão e uma série de possíveis respostas. Dependendo da resposta escolhida pelo estudante, ou ele passa para a próxima página ou é levado de volta para uma página anterior. A navegação através da lição pode ser direta ou complexa, dependendo em grande parte da estrutura do material que está sendo apresentado.
 
-video::Xcilgy3PHSA[youtube,width=640,height=480]
+video::QgIVkhIF7Kk[youtube,width=640,height=480]
 
 === Programar eventos no calendário de um curso no Moodle
 
 No vídeo a seguir é apresentado como o professor pode criar eventos no calendário para um curso do Moodle.
 
-video::fTnrQGWxTpk[youtube,width=640,height=480]
+video::QYvKyKtdCoo[youtube,width=640,height=480]
 
 === Criando uma atividade Tarefa em um curso no Moodle
 
@@ -249,7 +255,7 @@ Os questionários podem ser utilizados:
 
 No vídeo a seguir é apresentado pelo professor Vinicius Istofel como criar um questionário.
 
-video::mdJFYiB9QOs[youtube,width=640,height=480]
+video::6Q3BHLJFjrU[youtube,width=640,height=480]
 
 === Reutilização de Questionários na plataforma Moodle
 
