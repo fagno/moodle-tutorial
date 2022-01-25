@@ -31,34 +31,29 @@ link:https://fagno.github.io/moodle-tutorial/[HOME]
 
 == Primeiro Acesso
 
-Para ter acesso a plataforma Moodle é necessário que os alunos estejam cadastrado na mesma.
+Para ter acesso a plataforma Moodle (https://moodle.ifto.edu.br) é necessário que os alunos estejam cadastrado na mesma.
 
-WARNING: Os alunos do Campus Palmas devem entrar em contato através do e-mail: moodle.palmas@ifto.edu.br em caso de problemas.
+Os nossos canais de atendimento para questões dúvidas/técnicas são:
 
-WARNING: Os Alunos dos campi PORTO NACIONAL, GURUPI, COLINAS DO TOCANTINS, ARAGUATINS, DIANOPOLIS, PARAÍSO DO TOCANTINS, AVANÇADO PEDRO AFONSO E AVANÇADO FORMOSO DO ARAGUAINA, devem entrar em contato com o responsável do seu campus através do e-mail abaixo em caso de problemas.
+1. Campus Palmas (gti.palmas@ifto.edu.br; Telefone/Whatsapp: (63) 3236-4016)
 
 1. Campus Araguatins (e-mail: rayllon.reis@ifto.edu.br)
 
-2. Campus Colinas (e-mail: luciano.moraes@ifto.edu.br)
+1. Campus Colinas (e-mail: luciano.moraes@ifto.edu.br)
 
-3. Campus Dianópolis (e-mail: diego.fonseca@ifto.edu.br)
+1. Campus Dianópolis (e-mail: diego.fonseca@ifto.edu.br)
 
-4. Campus Avançado de Formoso do Araguaia (e-mail: igor.souza@ifto.edu.br)
+1. Campus Avançado de Formoso do Araguaia (e-mail: igor.souza@ifto.edu.br)
 
-5. Campus Gurupi (e-mail: guilherme.quintino@ifto.edu.br)
+1. Campus Gurupi (e-mail: guilherme.quintino@ifto.edu.br)
 
-6. Campus Avançado de Pedro Afonso (e-mail: hugo.pereira@ifto.edu.br)
+1. Campus Avançado de Pedro Afonso (e-mail: hugo.pereira@ifto.edu.br)
 
-7. Campus Porto Nacional (e-mail: renan.albuquerque@ifto.edu.br)
+1. Campus Porto Nacional (e-mail: renan.albuquerque@ifto.edu.br)
 
-8. Campus Paraíso do Tocantins (e-mail: ricardo.pimentel@ifto.efu.br e bruno.ribeiro@ifto.edu.br)
+1. Campus Paraíso do Tocantins (e-mail: ricardo.pimentel@ifto.efu.br e bruno.ribeiro@ifto.edu.br)
 
 IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA. No login devem utilizar o CPF (somente números). 
-
-Existem dois ambientes Moodle principais no IFTO:
-
-- Moodle Palmas: cursos presenciais do campus Palmas, endereço: https://moodlepalmas.ifto.edu.br
-- Moodle Reitoria: cursos do ensino à distância e cursos dos campus listado acima, endereço: https://moodle.ifto.edu.br
 
 == Vídeo de apresentação para primeiro acesso
 
