@@ -44,8 +44,6 @@ A seguir apresentamos tópicos com conteúdo para professores e alunos:
 
 2. link:moodle-mobile/[Moodle Mobile]
 
-IMPORTANT: Em caso de dúvidas entre em contato com o suporte moodle através do endereço de e-mail: moodle.palmas@ifto.edu.br
-
 == Google Classroom
 
 Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.

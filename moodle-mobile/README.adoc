@@ -38,9 +38,7 @@ Vídeo de apresentação: https://www.youtube.com/watch?v=6baJWsoH2bI
 
 *Passo 2: Inserir URL da página do Moodle.*
 
-IMPORTANT: Moodle Campus Palmas: inserir a URL https://moodlepalmas.ifto.edu.br/moodle no campo Site address conforme figura 1.
-
-IMPORTANT: Moodle Reitoria: inserir a URL https://moodle.ifto.edu.br/moodle no campo Site address conforme figura 1.
+IMPORTANT: Inserir a URL https://moodle.ifto.edu.br/moodle no campo Site address conforme figura 1.
 
 NOTE: É necessário incluir '/moodle' como consta no endereço da plataforma. 
 
