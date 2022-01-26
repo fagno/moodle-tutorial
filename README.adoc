@@ -26,7 +26,7 @@
 //3+| mesclar linha tabela
 
 
-= Tutorial de Suporte ao Ensino a Distância
+= Tutorial de Suporte ao Ensino Remoto
 
 == Sobre este Tutorial
 
