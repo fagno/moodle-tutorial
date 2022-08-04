@@ -31,7 +31,7 @@
 == Sobre este material
 
 Este material destina-se ao suporte ao ensino remoto. É composto por vários vídeos produzidos pelos professores:
-- Fagno Fonseca <fagno.fonseca@ifto.edu.br>;
+1. Fagno Fonseca <fagno.fonseca@ifto.edu.br>;
 - Vinicius Istofel <viniciusoliveira@ifto.edu.br>;
 - Ana Paula Guimarães <ana.guimaraes@ifto.edu.br>
 - Claudio Monteiro <ccm@ifto.edu.br>.
