@@ -26,11 +26,18 @@
 //3+| mesclar linha tabela
 
 
-= Tutorial de Suporte ao Ensino Remoto
+= TUTORIAIS
 
-== Sobre este Tutorial
+== Sobre este material
 
-Este tutorial é composto por vários vídeos elaborados pelos professores Fagno Fonseca <fagno.fonseca@ifto.edu.br>, Vinicius Istofel <viniciusoliveira@ifto.edu.br>, Ana Paula Guimarães <ana.guimaraes@ifto.edu.br> e Claudio Monteiro <ccm@ifto.edu.br>, com o objetivo de apresentar as principais funcionalidades da plataforma Moodle, Google Classroom, e Google Meet, aos professores e alunos do Instituto Federal de Ciência e Tecnologia do Tocantins - IFTO. 
+Este material destina-se ao suporte ao ensino remoto. É composto por vários vídeos produzidos pelos professores:
+- Fagno Fonseca <fagno.fonseca@ifto.edu.br>;
+- Vinicius Istofel <viniciusoliveira@ifto.edu.br>;
+- Ana Paula Guimarães <ana.guimaraes@ifto.edu.br>
+- Claudio Monteiro <ccm@ifto.edu.br>.
+O objetivo deste material é apresentar as principais funcionalidades das plataformas / ferramentas / programas usados atualmente no processo de ensino-aprendizagem no Instituto Federal do Tocantins no campus Palmas.
+
+
 
 == Plataforma Moodle
 
