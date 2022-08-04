@@ -3,10 +3,12 @@
 == Sobre este material
 
 Este material destina-se ao suporte ao ensino remoto. É composto por vários vídeos produzidos pelos professores:
-1. Fagno Fonseca <fagno.fonseca@ifto.edu.br>;
+
+- Fagno Fonseca <fagno.fonseca@ifto.edu.br>;
 - Vinicius Istofel <viniciusoliveira@ifto.edu.br>;
 - Ana Paula Guimarães <ana.guimaraes@ifto.edu.br>
 - Claudio Monteiro <ccm@ifto.edu.br>.
+
 O objetivo deste material é apresentar as principais funcionalidades das plataformas / ferramentas / programas usados atualmente no processo de ensino-aprendizagem no Instituto Federal do Tocantins no campus Palmas.
 
 
