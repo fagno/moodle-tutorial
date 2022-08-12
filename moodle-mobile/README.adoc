@@ -33,7 +33,7 @@ Vídeo de apresentação: https://www.youtube.com/watch?v=6baJWsoH2bI
 
 *Passo 1: Efetuar download do aplicativo na Google Play ou App Store.*
 
-- Google Play: link:https://play.google.com/store/apps/details?id=com.moodle.moodlemobile/[Download]
+- Google Play: link:https://play.google.com/store/apps/details?id=com.moodle.moodlemobile[Download]
 - App Store: link:https://apps.apple.com/br/app/moodle/id633359593/[Download]
 
 *Passo 2: Inserir URL da página do Moodle.*
