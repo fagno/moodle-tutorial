@@ -16,11 +16,3 @@ O objetivo deste material é apresentar as principais funcionalidades das plataf
 - link:[Meet]
 
 
-
-== Google Meet
-
-Com o Google Meet você cria reuniões sem se preocupar se colegas de equipe ou clientes têm a conta ou os plug-ins certos. Com uma interface rápida e leve e o gerenciamento inteligente de participantes, é bem fácil fazer videochamadas com várias pessoas.
-
-Como o Meet é totalmente integrado ao G Suite, você pode participar de reuniões a partir de um evento do Agenda ou um convite por e-mail. Todos os detalhes importantes do evento estão disponíveis quando necessário: seja em um laptop, um smartphone ou uma sala de conferências.
-
-1. link:google-meet/[Tutorial Google Meet]
