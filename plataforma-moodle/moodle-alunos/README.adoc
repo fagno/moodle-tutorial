@@ -1,1 +1,125 @@
 
+//caminho padrão para imagens
+:imagesdir: images
+:figure-caption: Figura
+:doctype: book
+
+//gera apresentacao
+//pode se baixar os arquivos e add no diretório
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0
+
+//GERAR ARQUIVOS
+//make slides
+//make ebook
+
+//Estilo do Sumário
+:toc2: 
+//após os : insere o texto que deseja ser visível
+:toc-title: Sumário
+:figure-caption: Figura
+//numerar titulos
+:numbered:
+:source-highlighter: highlightjs
+:icons: font
+:chapter-label:
+:doctype: book
+:lang: pt-BR
+//3+| mesclar linha tabela
+
+link:https://fagno.github.io/moodle-tutorial/[HOME]
+
+= Tutorial Moodle IFTO
+
+== Primeiro Acesso
+
+Para ter acesso a plataforma Moodle (https://moodle.ifto.edu.br) é necessário que os alunos estejam cadastrado na mesma.
+
+Os nossos canais de atendimento para questões dúvidas/técnicas são:
+
+1. Campus Palmas (gti.palmas@ifto.edu.br; Telefone/Whatsapp: (63) 3236-4016)
+
+1. Campus Araguatins (e-mail: rayllon.reis@ifto.edu.br)
+
+1. Campus Colinas (e-mail: luciano.moraes@ifto.edu.br)
+
+1. Campus Dianópolis (e-mail: diego.fonseca@ifto.edu.br)
+
+1. Campus Avançado de Formoso do Araguaia (e-mail: igor.souza@ifto.edu.br)
+
+1. Campus Gurupi (e-mail: guilherme.quintino@ifto.edu.br)
+
+1. Campus Avançado de Pedro Afonso (e-mail: hugo.pereira@ifto.edu.br)
+
+1. Campus Porto Nacional (e-mail: renan.albuquerque@ifto.edu.br)
+
+1. Campus Paraíso do Tocantins (e-mail: ricardo.pimentel@ifto.efu.br e bruno.ribeiro@ifto.edu.br)
+
+IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA. No login devem utilizar o CPF (somente números). 
+
+== Vídeo de apresentação para primeiro acesso
+
+O vídeo a seguir apresenta o acesso através do Moodle do Campus Palmas, no entanto, o que muda em relação ao Moodle da Reitoria é apenas o endereço de acesso.
+
+video::v_vQvUifMm0[youtube,width=640,height=480]
+
+=== Enviando e recebendo mensagens através do Moodle
+
+No vídeo a seguir é apresentado como enviar mensagens através do Moodle.
+
+video::wQP0E-NxFv0[youtube,width=640,height=480]
+
+=== Enviando uma tarefa para o professor em um curso no Moodle
+
+Nesta aula é apresentado como o esudante pode enviar um arquivo em qualquer formato para o professor.
+
+video::UEm-jTFH7Mk[youtube,width=640,height=480]
+
+=== Enviando uma mensagem ao fórum de um curso no Moodle 
+
+O módulo de atividade fórum permite que participantes tenham discussões assíncronas, ou seja, discussões que acontecem durante um longo período de tempo.
+
+Existem vários tipos de fóruns que você pode escolher, como o fórum padrão onde qualquer um pode iniciar uma discussão a qualquer momento; um fórum onde cada estudante pode postar apenas uma discussão; ou um fórum de perguntas e respostas onde os estudantes devem primeiro fazer um post para então serem autorizados a ver os outros posts de outros estudantes. Um professor pode permitir que arquivos sejam anexados aos posts dos fóruns. As imagens anexadas são exibidas no post do fórum.
+
+Participantes podem assinar um fórum para receber notificações de novos posts do fórum. Um professor pode definir o modo de assinatura como opcional, forçado ou automático, ou proibir as assinaturas completamente. Se necessário, é possível estabelecer um número máximo de postagens num determinado período de tempo; isto pode prevenir que alguns indivíduos dominem as discussões.
+
+Posts dos fóruns podem ser avaliados pelo professor ou pelos estudantes (avaliação por pares). As avaliações podem ser agregadas para formar uma única nota final a ser gravada no livro de notas.
+
+Fórum tem muitas utilidades, como:
+
+- Um espaço social para os estudantes se conhecerem;
+- Anúncios sobre o curso (usando um fórum de notícias com assinatura forçada);
+- Para discutir conteúdos do curso ou os materiais para leitura;
+- Para continuar online uma discussão iniciada em sala de aula;
+- Para discussões entre os professores (utilize um fórum oculto);
+- Uma central de ajuda onde tutores e estudantes podem conseguir ajuda;
+- Uma área de suporte um-para-um para comunicações particulares entre professor e estudante (usando um fórum com grupos separados e um estudante por grupo);
+- Para atividades de extensão, por exemplo "brainstorms" para estudantes sugerirem e avaliarem idéias.
+
+video::orrQ8yMFpgY[youtube,width=640,height=480]
+//video::5Ey-DiMt6N0[youtube,width=640,height=480]
+
+=== Trabalhando com a Atividade Chat na plataforma Moodle.
+
+No vídeo a seguir é apresentado pelo professor Vinicius Istofel como o módulo de atividade chat permite que os participantes possam conversar em tempo real.
+
+A conversa pode ser uma atividade de uma só vez ou pode ser repetida na mesma hora todos os dias ou todas as semanas. Sessões de chat são salvas e podem ser disponibilizadas para que todos possam visualizar ou restritas a usuários com a capacidade de visualizar os logs de sessão do chat.
+
+Chats são especialmente úteis quando um grupo de bate-papo não é capaz de se encontrar cara-a-cara, como:
+
+- Reuniões regulares dos estudantes participantes de cursos online para que possam compartilhar experiências com outros no mesmo curso, mas em um local diferente;
+- Um estudante temporariamente impossibilitado de comparecer pessoalmente conversar com seu professor para acompanhar o trabalho;
+- Estudantes na experiência de trabalho se reúnem para discutir suas experiências entre si e com seu professor;
+- Crianças mais jovens que usam chat em casa à noite como uma introdução controlada (monitorada) para o mundo das redes sociais;
+- A sessão de perguntas e respostas com um orador convidado em um local diferente;
+- Sessões para ajudar os estudantes a se prepararem para testes em que o professor ou outros estudantes, colocariam exemplos de perguntaso professor pode criar eventos no calendário para um curso do Moodle.
+
+video::oxTp0JhN4Gg[youtube,width=640,height=480]
+//video::dzuMpFjoEJA[youtube,width=640,height=480]
+
+=== Visualização de notas do aluno pelo professor
+
+Todas as atividades avaliativas que forem definidas pelo professor em um curso podem ser atribuidas notas. Esse recurso possibilita ao aluno a visualização do seu desempenho nas atividades de aula de forma individual. 
+
+No vídeo a seguir é apresentado pelo professor Vinicius Istofel como o aluno pode visualizar suas notas.
+
+video::Nt9-o3sXyx8[youtube,width=640,height=480]
