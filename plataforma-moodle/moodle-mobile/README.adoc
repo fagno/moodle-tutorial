@@ -49,4 +49,4 @@ image::moodle-mobile-img1.png[width=400,height=300]
 *Passo 3: Inserir usuário e senha no campo Username e Password conforme figura 2.*
 
 .Inserir usuário e senha
-image::moodle-tutorial/images/moodle-mobile-img2.png[width=400,height=300]
+image::/moodle-tutorial/images/moodle-mobile-img2.png[width=400,height=300]
