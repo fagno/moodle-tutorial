@@ -1,3 +1,8 @@
+//caminho padrão para imagens
+:imagesdir: ../images
+:figure-caption: Figura
+:doctype: book
+
 = TUTORIAIS
 
 == Sobre este material
