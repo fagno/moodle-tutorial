@@ -16,8 +16,8 @@ Este material destina-se ao suporte ao ensino remoto. É composto por vários v�
 
 O objetivo deste material é apresentar as principais funcionalidades das plataformas / ferramentas / programas usados atualmente no processo de ensino-aprendizagem no Instituto Federal do Tocantins no campus Palmas.
 
-- link:plataforma-moodle/[Moodle] image::vermelho.png
-- link:google-classroom/[Classroom]
-- link:google-meet[Meet]
+image::vermelho.png link:plataforma-moodle/[Moodle] 
+link:google-classroom/[Classroom]
+link:google-meet[Meet]
 
 
