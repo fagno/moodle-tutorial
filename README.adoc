@@ -26,7 +26,8 @@ O objetivo deste material é apresentar as principais funcionalidades das plataf
 
 
 
-image::vermelho.png[width=50,height=50] link:plataforma-moodle/[Moodle]
+image::vermelho.png[width=50,height=50] 
+- link:plataforma-moodle/[Moodle]
 - link:google-classroom/[Classroom]
 - link:google-meet[Meet]
 
