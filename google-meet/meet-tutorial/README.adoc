@@ -28,15 +28,13 @@
 
 link:https://fagno.github.io/moodle-tutorial/[HOME]
 
-= Google Meet
-
-Crie reuniões em vídeochamada com a equipe usando somente uma conta do G-mail. Simples, prático e independente de sistema operacional.
-
 == Iniciar uma videochamada
+Descrição: criar uma vídeochamada usando o Google Meet.
 
 video::55gAGcbddxI[youtube,width=640,height=480]
 
 == Programar uma videochamada no Agenda
+Descrição: programar uma vídeochamada no Agenda através do Google Meet.
 
 video::K-xEKOlGPB8[youtube,width=640,height=480]
 
