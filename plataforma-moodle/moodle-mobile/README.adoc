@@ -28,8 +28,9 @@
 
 link:https://fagno.github.io/moodle-tutorial/[HOME]
 
-== Aplicativo Moodle Mobile
+= Tutoral Moodle Mobile
 
+== Apresentação
 Vídeo de apresentação: https://www.youtube.com/watch?v=6baJWsoH2bI
 
 *Passo 1: Efetuar download do aplicativo na Google Play ou App Store.*
