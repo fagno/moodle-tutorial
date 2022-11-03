@@ -1,7 +1,5 @@
 == Google Meet
 
-Com o Google Meet você cria reuniões sem se preocupar se colegas de equipe ou clientes têm a conta ou os plug-ins certos. Com uma interface rápida e leve e o gerenciamento inteligente de participantes, é bem fácil fazer videochamadas com várias pessoas.
-
-Como o Meet é totalmente integrado ao G Suite, você pode participar de reuniões a partir de um evento do Agenda ou um convite por e-mail. Todos os detalhes importantes do evento estão disponíveis quando necessário: seja em um laptop, um smartphone ou uma sala de conferências.
+Crie reuniões em vídeochamada com a equipe usando somente uma conta do G-mail. Simples, prático e independente de sistema operacional.
 
 1. link:meet-tutorial/[Tutorial Google Meet]
