@@ -82,7 +82,7 @@ video::8STZuIBHIHY[youtube,width=640,height=480]
 
 == Recursos e Atividades do Moodle
 
-Existem diversos recursos e atividades na plataforma Moodle. Este tutorial apresenta alguns dos mais utilizados por professores em suas aulas. O Vídeo a seguir apresenta como adicionar um atividade ou recurso dentro do Moodle.
+Existem diversos recursos e atividades na plataforma Moodle. Este tutorial apresenta alguns dos mais utilizados por professores em suas aulas. O vídeo a seguir apresenta como adicionar um atividade ou recurso dentro do Moodle.
 
 video::Gu2CEVQxslo[youtube,width=640,height=480]
 
