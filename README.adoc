@@ -3,6 +3,28 @@
 :figure-caption: Figura
 :doctype: book
 
+//gera apresentacao
+//pode se baixar os arquivos e add no diretório
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0
+
+//GERAR ARQUIVOS
+//make slides
+//make ebook
+
+//Estilo do Sumário
+:toc2: 
+//após os : insere o texto que deseja ser visível
+:toc-title: Sumário
+:figure-caption: Figura
+//numerar titulos
+:numbered:
+:source-highlighter: highlightjs
+:icons: font
+:chapter-label:
+:doctype: book
+:lang: pt-BR
+//3+| mesclar linha tabela
+
 = TUTORIAIS
 
 == Sobre este material
@@ -15,6 +37,8 @@ Este material destina-se ao suporte ao ensino remoto. É composto por vários v�
 - Claudio Monteiro <ccm@ifto.edu.br>.
 
 O objetivo deste material é apresentar as principais funcionalidades das plataformas / ferramentas / programas usados atualmente no processo de ensino-aprendizagem no Instituto Federal do Tocantins no campus Palmas.
+
+NOTE: É necessário incluir '/moodle' como consta no endereço da plataforma. 
 
 - link:plataforma-moodle/[Moodle]
 - link:google-classroom/[Classroom]
