@@ -175,8 +175,6 @@ video::5Ey-DiMt6N0[youtube,width=640,height=480]
 
 Professores podem indicar para cada curso como eles desejam que a atividade seja marcada como completada. Uma caixa/marca de seleção aparecerá ao lado da atividade. Alunos podem marcá-la para completar manualmente ou o item será automaticamente registrado como completado assim que o aluno atingir os critérios especificados. O professor pode ter um relatório de visão geral de quem completou qual atividade e ter um acompanhamento de todo o progresso do aluno dentro do curso.
 
-Como uma extensão da conclusão de atividade, ativar a Conclusão de curso permite que um curso seja marcado oficialmente como concluído, tanto manual ou automaticamente segundo critérios definidos. Se o Bloco de conclusão de curso for colocado, alunos podem ver seu progresso durante o curso. Professores podem ver o progresso geral dos estudantes na conclusão do curso. 
-
 Nos vídeos a seguir são apresentados como definir estas ações.
 
 ==== Versão Moodle 3
