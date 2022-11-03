@@ -28,6 +28,8 @@
 
 link:https://fagno.github.io/moodle-tutorial/[HOME]
 
+= Tutorial Classroom
+
 == Classroom Professores
 
 Descrição: Uso do Google Classroom por professores.
