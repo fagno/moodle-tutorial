@@ -1,3 +1,9 @@
+//caminho padrão para imagens
+:imagesdir: /images
+:figure-caption: Figura
+:doctype: book
+
+image::bola_vermelha.png[width=50,height=50] 
 == Plataforma Moodle
 
 A plataforma MOODLE (Modular Object-Oriented Dynamic Learning Environment) é um software livre, de apoio à aprendizagem. Um Sistema de gestão da aprendizagem em trabalho colaborativo acessível através da Internet ou de rede local. Atualmente é a plataforma utilizada pelo IFTO nos cursos de modalidade a distância e também como instrumento de apoio ao ensino presencial.
