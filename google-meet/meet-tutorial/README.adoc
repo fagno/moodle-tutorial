@@ -43,7 +43,7 @@ video::K-xEKOlGPB8[youtube,width=640,height=480]
 == Aplicativo Google Meet
 
 Participe das reuniões mesmo quando você não estiver na sua mesa de trabalho.
-Com o aplicativo Meet criado especialmente para iOS e Android, você pode ver no Agenda as reuniões do dia, com todas as informações importantes. Basta um toque para participar.
+Com o aplicativo Meet criado especialmente para iOS e Android, você pode ver no Agenda as reuniões do dia com todas as informações importantes. Basta um toque para participar.
 
 Download https://play.google.com/store/apps/details?id=com.google.android.apps.meetings/[Google Play]
 
