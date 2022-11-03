@@ -96,13 +96,7 @@ video::FiJ4bO3avVY[youtube,width=640,height=480]
 
 === Inserir um recurso URL em um curso no Moodle
 
-O módulo de URL permite que um professor para fornecer um link de web como um recurso do curso. Qualquer coisa que esteja livremente disponível on-line, como documentos ou imagens, pode ser vinculada.
-
-Há uma série de opções de exibição para URL, como incorporado ou aberto em uma nova janela.
-
-Observe que URLs também podem ser adicionados a qualquer outro tipo de recurso ou atividade através do editor de texto.
-
-Para inserir uma URL em um curso no Moodle, ative o modo de edição e adicione um novo recurso URL. Mais informações no vídeo a seguir.
+O módulo de URL permite que um professor forneça um link de web como um recurso do curso. Qualquer coisa que esteja livremente disponível on-line, como documentos ou imagens, pode ser vinculada.
 
 video::-lW0TYXX09Y[youtube,width=640,height=480]
 //video::JRpzsJvlOj0[youtube,width=640,height=480]
@@ -117,8 +111,6 @@ Rótulos podem ser utilizados:
 - Para exibir vídeo diretamente na página do curso;
 - Para adicionar uma descrição breve a uma seção de um curso.
 
-Para inserir um rótulo em um curso no Moodle, ative o modo de edição e adicione um novo recurso Rótulo. Mais informações no vídeo a seguir.
-
 video::zKgvuSuZN3Y[youtube,width=640,height=480]
 
 === Inserindo um recurso arquivo em um curso no Moodle
@@ -126,8 +118,6 @@ video::zKgvuSuZN3Y[youtube,width=640,height=480]
 O módulo de arquivo permite que um professor forneça um arquivo de qualquer tipo como um recurso do curso. Sempre que possível, o arquivo será exibido na interface do curso, caso contrário, os estudantes serão levados a fazer o download. 
 
 Note-se que os estudantes precisam ter o software adequado em seus computadores para abrir o arquivo.
-
-Para inserir um arquivo em um curso no Moodle, ative o modo de edição e adicione um novo arquivo. Mais informações no vídeo a seguir.
 
 video::zuAepKdXkU8[youtube,width=640,height=480]
 //video::dTW25ZjapmY[youtube,width=640,height=480]
