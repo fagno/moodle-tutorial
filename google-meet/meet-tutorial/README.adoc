@@ -28,8 +28,6 @@
 
 link:https://fagno.github.io/moodle-tutorial/[HOME]
 
-GOOGLE MEET
-
 == Iniciar uma videochamada
 Descrição: criar uma vídeochamada usando o Google Meet.
 
