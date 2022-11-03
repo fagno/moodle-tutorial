@@ -27,6 +27,8 @@
 
 link:https://fagno.github.io/moodle-tutorial/[HOME]
 
+= Tutorial Classroom
+
 == Classroom Estudantes
 
 Descrição: Uso do Classroom por estudantes.
