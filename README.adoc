@@ -26,10 +26,12 @@ O objetivo deste material é apresentar as principais funcionalidades das plataf
 
 
 
-image::retangulo_vermelha.png[width=50,height=50] 
+image::retangulo_vermelha.png[width=50,height=100] 
 link:plataforma-moodle/[Moodle]
+
 image::retangulo_verde.png[width=50,height=50] 
 link:google-classroom/[Classroom]
+
 image::retangulo_branca.png[width=50,height=50] 
 link:google-meet[Meet]
 
