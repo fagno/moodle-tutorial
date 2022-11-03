@@ -3,7 +3,7 @@
 :figure-caption: Figura
 :doctype: book
 
-image::bola_verde.png[width=50,height=50]
+image::bola_branca.png[width=50,height=50]
 == Google Meet
 
 Crie reuniões em vídeochamada com a equipe usando somente uma conta do G-mail. Simples, prático e independente de sistema operacional.
