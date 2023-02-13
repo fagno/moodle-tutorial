@@ -59,7 +59,7 @@ IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico
 
 O vídeo a seguir apresenta o acesso através do Moodle do Campus Palmas, no entanto, o que muda em relação ao Moodle da Reitoria é apenas o endereço de acesso.
 
-video::v_vQvUifMm0[youtube,width=640,height=480]
+video::v7VXcZA6ris[youtube,width=640,height=480]
 
 === Enviando e recebendo mensagens através do Moodle
 
