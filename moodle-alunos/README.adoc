@@ -29,9 +29,11 @@ link:https://fagno.github.io/moodle-tutorial/[HOME]
 
 = Tutorial Moodle IFTO
 
-== Primeiro Acesso
+== Vídeo de apresentação para primeiro acesso
 
-Para ter acesso a plataforma Moodle (https://moodle.ifto.edu.br) é necessário que os alunos estejam cadastrado na mesma.
+NOTE: Endereço da plataforma: https://moodle.ifto.edu.br
+
+video::v7VXcZA6ris[youtube,width=640,height=480]
 
 Os nossos canais de atendimento para questões dúvidas/técnicas são:
 
@@ -53,27 +55,19 @@ Os nossos canais de atendimento para questões dúvidas/técnicas são:
 
 1. Campus Paraíso do Tocantins (e-mail: ricardo.pimentel@ifto.efu.br e bruno.ribeiro@ifto.edu.br)
 
-IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SIGA. No login devem utilizar o CPF (somente números). 
-
-== Vídeo de apresentação para primeiro acesso
-
-NOTE: https://moodle.ifto.edu.br
-
-video::v7VXcZA6ris[youtube,width=640,height=480]
-
-=== Enviando e recebendo mensagens através do Moodle
+== Enviando e recebendo mensagens através do Moodle
 
 No vídeo a seguir é apresentado como enviar mensagens através do Moodle.
 
 video::wQP0E-NxFv0[youtube,width=640,height=480]
 
-=== Enviando uma tarefa para o professor em um curso no Moodle
+== Enviando uma tarefa para o professor em um curso no Moodle
 
 Nesta aula é apresentado como o esudante pode enviar um arquivo em qualquer formato para o professor.
 
 video::UEm-jTFH7Mk[youtube,width=640,height=480]
 
-=== Enviando uma mensagem ao fórum de um curso no Moodle 
+== Enviando uma mensagem ao fórum de um curso no Moodle 
 
 O módulo de atividade fórum permite que participantes tenham discussões assíncronas, ou seja, discussões que acontecem durante um longo período de tempo.
 
@@ -97,7 +91,7 @@ Fórum tem muitas utilidades, como:
 video::orrQ8yMFpgY[youtube,width=640,height=480]
 //video::5Ey-DiMt6N0[youtube,width=640,height=480]
 
-=== Trabalhando com a Atividade Chat na plataforma Moodle.
+== Trabalhando com a Atividade Chat na plataforma Moodle.
 
 No vídeo a seguir é apresentado pelo professor Vinicius Istofel como o módulo de atividade chat permite que os participantes possam conversar em tempo real.
 
@@ -115,7 +109,7 @@ Chats são especialmente úteis quando um grupo de bate-papo não é capaz de se
 video::oxTp0JhN4Gg[youtube,width=640,height=480]
 //video::dzuMpFjoEJA[youtube,width=640,height=480]
 
-=== Visualização de notas do aluno pelo professor
+== Visualização de notas do aluno pelo professor
 
 Todas as atividades avaliativas que forem definidas pelo professor em um curso podem ser atribuidas notas. Esse recurso possibilita ao aluno a visualização do seu desempenho nas atividades de aula de forma individual. 
 
