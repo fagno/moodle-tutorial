@@ -29,7 +29,7 @@ link:https://fagno.github.io/moodle-tutorial/[HOME]
 
 = Tutorial Moodle IFTO
 
-== Vídeo de apresentação para primeiro acesso
+== Primeiro Acesso
 
 NOTE: Endereço da plataforma: https://moodle.ifto.edu.br
 
