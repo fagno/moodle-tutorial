@@ -57,7 +57,7 @@ IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico
 
 == Vídeo de apresentação para primeiro acesso
 
-O vídeo a seguir apresenta o acesso através do Moodle do Campus Palmas, no entanto, o que muda em relação ao Moodle da Reitoria é apenas o endereço de acesso.
+NOTE: https://moodle.ifto.edu.br
 
 video::v7VXcZA6ris[youtube,width=640,height=480]
 
