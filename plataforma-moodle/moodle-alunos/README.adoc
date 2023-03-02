@@ -120,24 +120,24 @@ Com as notificações de tarefa habilitadas, o estudante recebe um aviso quando 
 
 - Ao logar na plataforma, acesse o ícone sino como mostra a Figura 1. Observe na Figura 1 o ícone engrenagem, clique neste ícone para acessar as configurações.
 
-=== Figura 1
+**Figura 1
 
 image::notificacao1.png[]
 
 - No item Tarefa na coluna Web verifique se os itens Conectado e Offline estão desabilitados, como mostra na Figura 2.
 
-=== Figura 2
+Figura 2
 
 image::notificacao2.png[]
 
 - Habilite os itens Conectado e Offline, como mostra na Figura 3.
 
-=== Figura 3
+Figura 3
 
 image::notificacao3.png[]
 
 - Após as configurações ao logar novamente na plataforma, caso o docente tenha enviando algum retorno sobre as atividades referentes ao recurso Tarefa, o estudante receberá as notificações, como mostra a Figura 4.
 
-=== Figura 4
+Figura 4
 
 image::notificacao4.png[]
