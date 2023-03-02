@@ -113,3 +113,25 @@ video::oxTp0JhN4Gg[youtube,width=640,height=480]
 Todas as atividades avaliativas que forem definidas pelo professor em um curso podem ser atribuidas notas. Esse recurso possibilita ao aluno a visualização do seu desempenho nas atividades de aula de forma individual. 
 
 video::Nt9-o3sXyx8[youtube,width=640,height=480]
+
+=== Habilitar o recurso de noticações de tarefa
+
+Com as notificações de tarefa habilitadas, o estudante recebe um aviso quando o docente emite um feedback sobre suas atividades. A notificação aparece quando o estudante acessa a plataforma. Veja os passos para habilitar o recurso.
+
+1. Ao logar na plataforma, acesse o ícone sininho como mostra a Figura 1.
+
+image::notificacao1.png[width=50,height=50] 
+
+Observe na Figura 1 o ícone engrenagem, clique neste ícone para acessar as configurações.
+
+2. Veja se no item Tarefa na coluna Web se os itens Conectado e Offline estão desabilitados, como mostra na Figura 2.
+
+image::notificacao2.png[width=50,height=50] 
+
+3. Habilite os itens Conectado e Offline, como mostra na Figura 3.
+
+image::notificacao3.png[width=50,height=50] 
+
+4. Após as configurações, ao logar novamente na plataforma, caso o docente tenha enviando algum retorno sobre as atividades referentes ao recurso Tarefa, o estudante receberá as notificações, como mostra a Figura 4.
+
+image::notificacao4.png[width=50,height=50] 
