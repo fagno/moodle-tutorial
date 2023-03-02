@@ -118,13 +118,12 @@ video::Nt9-o3sXyx8[youtube,width=640,height=480]
 
 Com as notificações de tarefa habilitadas, o estudante recebe um aviso quando o docente emite um feedback sobre suas atividades. A notificação aparece quando o estudante acessa a plataforma. Veja os passos para habilitar o recurso.
 
-1. Ao logar na plataforma, acesse o ícone sino como mostra a Figura 1.
+1. Ao logar na plataforma, acesse o ícone sino como mostra a Figura 1. Observe na Figura 1 o ícone engrenagem, clique neste ícone para acessar as configurações.
 
 Figura 1
 
 image::notificacao1.png[]
 
-Observe na Figura 1 o ícone engrenagem, clique neste ícone para acessar as configurações.
 
 2. Veja se no item Tarefa na coluna Web se os itens Conectado e Offline estão desabilitados, como mostra na Figura 2.
 
