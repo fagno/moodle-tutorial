@@ -121,22 +121,22 @@ Com as notificações de tarefa habilitadas, o estudante recebe um aviso quando 
 
 **Figura 1**
 
-image::notificacao1.png[]
+image::notificacao_1.png[]
 
 - No item Tarefa na coluna Web verifique se os itens Conectado e Offline estão desabilitados, como mostra na Figura 2.
 
 **Figura 2**
 
-image::notificacao2.png[]
+image::notificacao_2.png[]
 
 - Habilite os itens Conectado e Offline, como mostra na Figura 3.
 
 **Figura 3**
 
-image::notificacao3.png[]
+image::notificacao_3.png[]
 
 - Após as configurações ao logar novamente na plataforma, caso o docente tenha enviando algum retorno sobre as atividades referentes ao recurso Tarefa, o estudante receberá as notificações, como mostra a Figura 4.
 
 **Figura 4**
 
-image::notificacao4.png[]
+image::notificacao_4.png[]
