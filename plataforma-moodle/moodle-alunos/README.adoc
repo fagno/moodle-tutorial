@@ -124,8 +124,7 @@ Figura 1
 
 image::notificacao1.png[]
 
-
-- Veja se no item Tarefa na coluna Web se os itens Conectado e Offline estão desabilitados, como mostra na Figura 2.
+- No item Tarefa na coluna Web verifique se os itens Conectado e Offline estão desabilitados, como mostra na Figura 2.
 
 Figura 2
 
@@ -137,7 +136,7 @@ Figura 3
 
 image::notificacao3.png[]
 
-- Após as configurações, ao logar novamente na plataforma, caso o docente tenha enviando algum retorno sobre as atividades referentes ao recurso Tarefa, o estudante receberá as notificações, como mostra a Figura 4.
+- Após as configurações ao logar novamente na plataforma, caso o docente tenha enviando algum retorno sobre as atividades referentes ao recurso Tarefa, o estudante receberá as notificações, como mostra a Figura 4.
 
 Figura 4
 
