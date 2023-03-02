@@ -120,7 +120,7 @@ Com as notificações de tarefa habilitadas, o estudante recebe um aviso quando 
 
 1. Ao logar na plataforma, acesse o ícone sininho como mostra a Figura 1.
 
-image::notificacao1.png[width=200,height=100]
+image::notificacao1.png[width=100,height=100]
 
 Observe na Figura 1 o ícone engrenagem, clique neste ícone para acessar as configurações.
 
