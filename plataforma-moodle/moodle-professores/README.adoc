@@ -241,7 +241,7 @@ video::PZhj8EhwimE[youtube,width=640,height=480]
 Este recurso possibilita o professor disponibilizar tarefas/arquivos diferentes para grupos específicos dentro da disciplina.
 Veja os passos para a criação dos grupos:
 
-- Na disciplina selecionada, acesse o ícone engrenagem como mostra a Figura 1
+
 
 
 == Conteúdo Interativo com H5P
