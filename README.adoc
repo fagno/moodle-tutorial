@@ -26,13 +26,10 @@ O objetivo deste material é apresentar as principais funcionalidades das plataf
 
 
 
-image::bola_vermelha.png[width=50,height=50] 
-link:plataforma-moodle/[Moodle]
+1. link:plataforma-moodle/[Tutorial Moodle]
 
-image::bola_verde.png[width=50,height=50] 
-link:google-classroom/[Classroom]
+1. link:google-classroom/[Tutorial Classroom]
 
-image::bola_branca.png[width=50,height=50] 
-link:google-meet[Meet]
+1. link:google-meet[Tutorial Meet]
 
 

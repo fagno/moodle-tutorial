@@ -3,7 +3,6 @@
 :figure-caption: Figura
 :doctype: book
 
-image::bola_verde.png[width=50,height=50]
 == Google Classroom
 
 Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.
