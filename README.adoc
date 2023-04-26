@@ -1,5 +1,5 @@
 //caminho padrão para imagens
-:imagesdir: images
+:imagesdir: /images
 :figure-caption: Figura
 :doctype: book
 
@@ -11,51 +11,28 @@
 //make slides
 //make ebook
 
-//Estilo do Sumário
-:toc2: 
-//após os : insere o texto que deseja ser visível
-:toc-title: Sumário
-:figure-caption: Figura
-//numerar titulos
-:numbered:
-:source-highlighter: highlightjs
-:icons: font
-:chapter-label:
-:doctype: book
-:lang: pt-BR
-//3+| mesclar linha tabela
+= TUTORIAIS
+
+== Sobre este material
+
+Este material destina-se ao suporte ao ensino remoto. É composto por vários vídeos produzidos pelos professores:
+
+- Fagno Fonseca <fagno.fonseca@ifto.edu.br>;
+- Vinicius Istofel <viniciusoliveira@ifto.edu.br>;
+- Ana Paula Guimarães <ana.guimaraes@ifto.edu.br>
+- Claudio Monteiro <ccm@ifto.edu.br>.
+
+O objetivo deste material é apresentar as principais funcionalidades das plataformas / ferramentas / programas usados atualmente no processo de ensino-aprendizagem no Instituto Federal do Tocantins no campus Palmas.
 
 
-= Tutorial de Suporte ao Ensino Remoto
 
-== Sobre este Tutorial
+image::bola_vermelha.png[width=50,height=50] 
+link:plataforma-moodle/[Moodle]
 
-Este tutorial é composto por vários vídeos elaborados pelos professores Fagno Fonseca <fagno.fonseca@ifto.edu.br>, Vinicius Istofel <viniciusoliveira@ifto.edu.br>, Ana Paula Guimarães <ana.guimaraes@ifto.edu.br> e Claudio Monteiro <ccm@ifto.edu.br>, com o objetivo de apresentar as principais funcionalidades da plataforma Moodle, Google Classroom, e Google Meet, aos professores e alunos do Instituto Federal de Ciência e Tecnologia do Tocantins - IFTO. 
+image::bola_verde.png[width=50,height=50] 
+link:google-classroom/[Classroom]
 
-== Plataforma Moodle
+image::bola_branca.png[width=50,height=50] 
+link:google-meet[Meet]
 
-A plataforma MOODLE (Modular Object-Oriented Dynamic Learning Environment) é um software livre, de apoio à aprendizagem. Um Sistema de gestão da aprendizagem em trabalho colaborativo acessível através da Internet ou de rede local. Atualmente é a plataforma utilizada pelo IFTO nos cursos de modalidade a distância e também como instrumento de apoio ao ensino presencial.
 
-A seguir apresentamos tópicos com conteúdo para professores e alunos:
-
-1. link:moodle-professores/[Tutorial para Professores]
-
-2. link:moodle-alunos/[Tutorial para Alunos]
-
-2. link:moodle-mobile/[Moodle Mobile]
-
-== Google Classroom
-
-Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.
-
-1. link:classroom-professores/[Tutorial para Professores]
-
-2. link:classroom-alunos/[Tutorial para Alunos]
-
-== Google Meet
-
-Com o Google Meet você cria reuniões sem se preocupar se colegas de equipe ou clientes têm a conta ou os plug-ins certos. Com uma interface rápida e leve e o gerenciamento inteligente de participantes, é bem fácil fazer videochamadas com várias pessoas.
-
-Como o Meet é totalmente integrado ao G Suite, você pode participar de reuniões a partir de um evento do Agenda ou um convite por e-mail. Todos os detalhes importantes do evento estão disponíveis quando necessário: seja em um laptop, um smartphone ou uma sala de conferências.
-
-1. link:google-meet/[Tutorial Google Meet]
